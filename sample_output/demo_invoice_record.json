@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "desc": "Training workshop, per day",
+   "qty": 1,
+   "unit_c": 92507,
+   "amount_c": 92507
+  },
+  {
+   "desc": "Catering, per head",
+   "qty": 61,
+   "unit_c": 2088,
+   "amount_c": 127368
+  },
+  {
+   "desc": "Standing desk, 140 cm",
+   "qty": 1,
+   "unit_c": 37587,
+   "amount_c": 37587
+  },
+  {
+   "desc": "Print run, 500 flyers",
+   "qty": 6,
+   "unit_c": 9190,
+   "amount_c": 55140
+  },
+  {
+   "desc": "Paint, 10 L white",
+   "qty": 10,
+   "unit_c": 4319,
+   "amount_c": 43190
+  },
+  {
+   "desc": "Courier parcel, next day",
+   "qty": 2,
+   "unit_c": 1563,
+   "amount_c": 3126
+  }
+ ],
+ "pages": 1,
+ "vendor": "Vertex Print Works",
+ "invoice_no": "INV-2026-10002",
+ "invoice_date": "2026-03-05",
+ "due_date": "2026-04-04",
+ "customer": "Granite Peak Outfitters",
+ "subtotal_c": 358918,
+ "tax_rate_bp": 700,
+ "tax_c": 25124,
+ "total_c": 384042
+}

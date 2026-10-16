@@ -1,0 +1,8018 @@
+[
+ {
+  "file": "INV-2026-10000.pdf",
+  "invoice_no": "INV-2026-10000",
+  "vendor": "Vertex Print Works",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-05-08",
+  "due_date": "2026-05-22",
+  "subtotal": 535.7,
+  "tax": 45.53,
+  "total": 581.23,
+  "check": [],
+  "items": [
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 222.74,
+    "amount": 222.74
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 6,
+    "unit_price": 37.8,
+    "amount": 226.8
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 4,
+    "unit_price": 21.54,
+    "amount": 86.16
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10001.pdf",
+  "invoice_no": "INV-2026-10001",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-06-14",
+  "due_date": "2026-07-14",
+  "subtotal": 9947.64,
+  "tax": 994.76,
+  "total": 10942.4,
+  "check": [],
+  "items": [
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 235.88,
+    "amount": 471.76
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 3,
+    "unit_price": 204.92,
+    "amount": 614.76
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 164.17,
+    "amount": 164.17
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 3,
+    "unit_price": 121.1,
+    "amount": 363.3
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 2,
+    "unit_price": 33.43,
+    "amount": 66.86
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 193.68,
+    "amount": 1162.08
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 6,
+    "unit_price": 43.56,
+    "amount": 261.36
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 361.11,
+    "amount": 361.11
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 22,
+    "unit_price": 85.02,
+    "amount": 1870.44
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 8,
+    "unit_price": 31.44,
+    "amount": 251.52
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 756.53,
+    "amount": 1513.06
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 3,
+    "unit_price": 278.86,
+    "amount": 836.58
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 10,
+    "unit_price": 9.46,
+    "amount": 94.6
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 11,
+    "unit_price": 91.34,
+    "amount": 1004.74
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 403.75,
+    "amount": 403.75
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 22,
+    "unit_price": 7.26,
+    "amount": 159.72
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 30,
+    "unit_price": 8.57,
+    "amount": 257.1
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 90.73,
+    "amount": 90.73
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10002.pdf",
+  "invoice_no": "INV-2026-10002",
+  "vendor": "Vertex Print Works",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-03-05",
+  "due_date": "2026-04-04",
+  "subtotal": 3589.18,
+  "tax": 251.24,
+  "total": 3840.42,
+  "check": [],
+  "items": [
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 925.07,
+    "amount": 925.07
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 61,
+    "unit_price": 20.88,
+    "amount": 1273.68
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 375.87,
+    "amount": 375.87
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 91.9,
+    "amount": 551.4
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 10,
+    "unit_price": 43.19,
+    "amount": 431.9
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 2,
+    "unit_price": 15.63,
+    "amount": 31.26
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10003.pdf",
+  "invoice_no": "INV-2026-10003",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-05-29",
+  "due_date": "2026-06-12",
+  "subtotal": 3412.28,
+  "tax": 170.61,
+  "total": 3573.89,
+  "check": [
+   "total_mismatch"
+  ],
+  "items": [
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 7,
+    "unit_price": 120.77,
+    "amount": 845.39
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 3,
+    "unit_price": 73.32,
+    "amount": 219.96
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 18,
+    "unit_price": 11.15,
+    "amount": 200.7
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 142.28,
+    "amount": 569.12
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 54,
+    "unit_price": 23.02,
+    "amount": 1243.08
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 8,
+    "unit_price": 13.47,
+    "amount": 107.76
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 1,
+    "unit_price": 226.27,
+    "amount": 226.27
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10004.pdf",
+  "invoice_no": "INV-2026-10004",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-02-25",
+  "due_date": "2026-03-27",
+  "subtotal": 4821.83,
+  "tax": 0.0,
+  "total": 4821.83,
+  "check": [],
+  "items": [
+   {
+    "description": "Business cards, box of 250",
+    "qty": 3,
+    "unit_price": 32.66,
+    "amount": 97.98
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 10,
+    "unit_price": 27.69,
+    "amount": 276.9
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 228.65,
+    "amount": 457.3
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 4,
+    "unit_price": 211.94,
+    "amount": 847.76
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 4,
+    "unit_price": 12.09,
+    "amount": 48.36
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 2,
+    "unit_price": 10.74,
+    "amount": 21.48
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 15,
+    "unit_price": 123.51,
+    "amount": 1852.65
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 10,
+    "unit_price": 121.94,
+    "amount": 1219.4
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10005.pdf",
+  "invoice_no": "INV-2026-10005",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-02-04",
+  "subtotal": 14837.38,
+  "tax": 1038.62,
+  "total": 15876.0,
+  "check": [],
+  "items": [
+   {
+    "description": "Software licence, annual",
+    "qty": 20,
+    "unit_price": 135.07,
+    "amount": 2701.4
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 70.91,
+    "amount": 425.46
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 1,
+    "unit_price": 98.58,
+    "amount": 98.58
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 15,
+    "unit_price": 83.37,
+    "amount": 1250.55
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 1,
+    "unit_price": 77.15,
+    "amount": 77.15
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 5,
+    "unit_price": 145.8,
+    "amount": 729.0
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 34,
+    "unit_price": 81.63,
+    "amount": 2775.42
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 12,
+    "unit_price": 16.26,
+    "amount": 195.12
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 1,
+    "unit_price": 35.75,
+    "amount": 35.75
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 101.6,
+    "amount": 609.6
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 78.86,
+    "amount": 473.16
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 50,
+    "unit_price": 11.97,
+    "amount": 598.5
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 9,
+    "unit_price": 30.44,
+    "amount": 273.96
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 20,
+    "unit_price": 82.22,
+    "amount": 1644.4
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 4,
+    "unit_price": 57.69,
+    "amount": 230.76
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 7,
+    "unit_price": 73.99,
+    "amount": 517.93
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 47,
+    "unit_price": 10.99,
+    "amount": 516.53
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 3,
+    "unit_price": 64.41,
+    "amount": 193.23
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 12,
+    "unit_price": 53.51,
+    "amount": 642.12
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 29,
+    "unit_price": 14.96,
+    "amount": 433.84
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 24,
+    "unit_price": 11.25,
+    "amount": 270.0
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 4,
+    "unit_price": 36.23,
+    "amount": 144.92
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10006.pdf",
+  "invoice_no": "INV-2026-10006",
+  "vendor": "Vertex Print Works",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-05-07",
+  "subtotal": 9235.59,
+  "tax": 923.56,
+  "total": 10159.15,
+  "check": [],
+  "items": [
+   {
+    "description": "27-inch monitor",
+    "qty": 4,
+    "unit_price": 248.87,
+    "amount": 995.48
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 8,
+    "unit_price": 59.07,
+    "amount": 472.56
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 86,
+    "unit_price": 3.63,
+    "amount": 312.18
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 15,
+    "unit_price": 11.72,
+    "amount": 175.8
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 12,
+    "unit_price": 8.91,
+    "amount": 106.92
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 1,
+    "unit_price": 108.34,
+    "amount": 108.34
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 708.61,
+    "amount": 2125.83
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 6,
+    "unit_price": 134.75,
+    "amount": 808.5
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 18,
+    "unit_price": 8.77,
+    "amount": 157.86
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 72.52,
+    "amount": 72.52
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 9,
+    "unit_price": 40.13,
+    "amount": 361.17
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 148.11,
+    "amount": 592.44
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 4,
+    "unit_price": 42.2,
+    "amount": 168.8
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 10,
+    "unit_price": 141.81,
+    "amount": 1418.1
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 5,
+    "unit_price": 30.96,
+    "amount": 154.8
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 1,
+    "unit_price": 144.47,
+    "amount": 144.47
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 58,
+    "unit_price": 13.17,
+    "amount": 763.86
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 14,
+    "unit_price": 21.14,
+    "amount": 295.96
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10007.pdf",
+  "invoice_no": "INV-2026-10007",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-03-16",
+  "due_date": "2026-04-15",
+  "subtotal": 4331.95,
+  "tax": 216.6,
+  "total": 4548.55,
+  "check": [],
+  "items": [
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 3,
+    "unit_price": 204.38,
+    "amount": 613.14
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 6,
+    "unit_price": 7.43,
+    "amount": 44.58
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 1,
+    "unit_price": 209.8,
+    "amount": 209.8
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 17,
+    "unit_price": 19.19,
+    "amount": 326.23
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 9,
+    "unit_price": 30.46,
+    "amount": 274.14
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 5,
+    "unit_price": 42.48,
+    "amount": 212.4
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 9,
+    "unit_price": 35.98,
+    "amount": 323.82
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 63.69,
+    "amount": 63.69
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 10,
+    "unit_price": 26.27,
+    "amount": 262.7
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 58,
+    "unit_price": 19.49,
+    "amount": 1130.42
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 5,
+    "unit_price": 134.93,
+    "amount": 674.65
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 9,
+    "unit_price": 21.82,
+    "amount": 196.38
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10008.pdf",
+  "invoice_no": "INV-2026-10008",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-07-30",
+  "due_date": "2026-08-29",
+  "subtotal": 5895.3,
+  "tax": 501.1,
+  "total": 6396.4,
+  "check": [],
+  "items": [
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 336.02,
+    "amount": 336.02
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 22,
+    "unit_price": 131.1,
+    "amount": 2884.2
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 262.32,
+    "amount": 524.64
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 5,
+    "unit_price": 21.31,
+    "amount": 106.55
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 111.6,
+    "amount": 446.4
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 7,
+    "unit_price": 42.02,
+    "amount": 294.14
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 15,
+    "unit_price": 86.89,
+    "amount": 1303.35
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10009.pdf",
+  "invoice_no": "INV-2026-10009",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-05-17",
+  "due_date": "2026-06-16",
+  "subtotal": 4710.19,
+  "tax": 400.37,
+  "total": 5110.56,
+  "check": [],
+  "items": [
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 12,
+    "unit_price": 9.71,
+    "amount": 116.52
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 9,
+    "unit_price": 144.69,
+    "amount": 1302.21
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 4,
+    "unit_price": 60.92,
+    "amount": 243.68
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 402.81,
+    "amount": 402.81
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 29,
+    "unit_price": 62.43,
+    "amount": 1810.47
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 5,
+    "unit_price": 56.28,
+    "amount": 281.4
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 276.55,
+    "amount": 553.1
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10010.pdf",
+  "invoice_no": "INV-2026-10010",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-03-02",
+  "due_date": "2026-03-16",
+  "subtotal": 6053.23,
+  "tax": 605.32,
+  "total": 6658.55,
+  "check": [],
+  "items": [
+   {
+    "description": "Graphic design, per hour",
+    "qty": 23,
+    "unit_price": 78.47,
+    "amount": 1804.81
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 8,
+    "unit_price": 21.64,
+    "amount": 173.12
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 289.95,
+    "amount": 579.9
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 3,
+    "unit_price": 20.42,
+    "amount": 61.26
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 2,
+    "unit_price": 71.06,
+    "amount": 142.12
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 3,
+    "unit_price": 66.9,
+    "amount": 200.7
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 4,
+    "unit_price": 182.89,
+    "amount": 731.56
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 4,
+    "unit_price": 256.34,
+    "amount": 1025.36
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 80,
+    "unit_price": 16.68,
+    "amount": 1334.4
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10011.pdf",
+  "invoice_no": "INV-2026-10011",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-01-23",
+  "due_date": "2026-02-06",
+  "subtotal": 2358.54,
+  "tax": 0.0,
+  "total": 2358.54,
+  "check": [],
+  "items": [
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 82.62,
+    "amount": 495.72
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 10,
+    "unit_price": 138.82,
+    "amount": 1388.2
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 237.31,
+    "amount": 474.62
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10012.pdf",
+  "invoice_no": "INV-2026-10012",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-06-11",
+  "due_date": "2026-07-26",
+  "subtotal": 914.38,
+  "tax": 77.72,
+  "total": 992.1,
+  "check": [],
+  "items": [
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 8,
+    "unit_price": 23.61,
+    "amount": 188.88
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 4,
+    "unit_price": 42.31,
+    "amount": 169.24
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 127,
+    "unit_price": 4.38,
+    "amount": 556.26
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10013.pdf",
+  "invoice_no": "INV-2026-10013",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-07-19",
+  "due_date": "2026-09-02",
+  "subtotal": 1171.16,
+  "tax": 0.0,
+  "total": 1171.16,
+  "check": [],
+  "items": [
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 148.25,
+    "amount": 593.0
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 161.73,
+    "amount": 161.73
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 7,
+    "unit_price": 59.49,
+    "amount": 416.43
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10014.pdf",
+  "invoice_no": "INV-2026-10014",
+  "vendor": "Tandem Office Goods",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-04-22",
+  "subtotal": 3302.27,
+  "tax": 231.16,
+  "total": 3533.43,
+  "check": [],
+  "items": [
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 465.2,
+    "amount": 465.2
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 18,
+    "unit_price": 97.69,
+    "amount": 1758.42
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 80.26,
+    "amount": 481.56
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 3,
+    "unit_price": 199.03,
+    "amount": 597.09
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10015.pdf",
+  "invoice_no": "INV-2026-10015",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-07-23",
+  "due_date": "2026-08-22",
+  "subtotal": 2632.6,
+  "tax": 394.89,
+  "total": 3027.49,
+  "check": [],
+  "items": [
+   {
+    "description": "Catering, per head",
+    "qty": 65,
+    "unit_price": 20.58,
+    "amount": 1337.7
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 1,
+    "unit_price": 106.36,
+    "amount": 106.36
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 3,
+    "unit_price": 9.85,
+    "amount": 29.55
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 4,
+    "unit_price": 67.43,
+    "amount": 269.72
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 80.17,
+    "amount": 481.02
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 25,
+    "unit_price": 16.33,
+    "amount": 408.25
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10016.pdf",
+  "invoice_no": "INV-2026-10016",
+  "vendor": "Orbit IT Support",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-03-29",
+  "subtotal": 1268.88,
+  "tax": 63.44,
+  "total": 1332.32,
+  "check": [],
+  "items": [
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 2,
+    "unit_price": 9.68,
+    "amount": 19.36
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 11,
+    "unit_price": 25.44,
+    "amount": 279.84
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 3,
+    "unit_price": 30.23,
+    "amount": 90.69
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 10,
+    "unit_price": 29.48,
+    "amount": 294.8
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 6,
+    "unit_price": 67.18,
+    "amount": 403.08
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 3,
+    "unit_price": 60.37,
+    "amount": 181.11
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10017.pdf",
+  "invoice_no": "INV-2026-10017",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-24",
+  "subtotal": 7842.86,
+  "tax": 549.0,
+  "total": 8391.86,
+  "check": [],
+  "items": [
+   {
+    "description": "Black toner cartridge",
+    "qty": 6,
+    "unit_price": 65.88,
+    "amount": 395.28
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 8,
+    "unit_price": 114.66,
+    "amount": 917.28
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 896.46,
+    "amount": 896.46
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 15,
+    "unit_price": 26.5,
+    "amount": 397.5
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 3,
+    "unit_price": 20.55,
+    "amount": 61.65
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 3,
+    "unit_price": 129.11,
+    "amount": 387.33
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 74.21,
+    "amount": 296.84
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 8,
+    "unit_price": 154.7,
+    "amount": 1237.6
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 926.81,
+    "amount": 1853.62
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 399.47,
+    "amount": 798.94
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 493.56,
+    "amount": 493.56
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 2,
+    "unit_price": 53.4,
+    "amount": 106.8
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10018.pdf",
+  "invoice_no": "INV-2026-10018",
+  "vendor": "Kestrel Logistics",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-09-21",
+  "due_date": "2026-10-21",
+  "subtotal": 2984.84,
+  "tax": 208.94,
+  "total": 3193.78,
+  "check": [],
+  "items": [
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 180.97,
+    "amount": 361.94
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 4,
+    "unit_price": 39.1,
+    "amount": 156.4
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 466.14,
+    "amount": 932.28
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 972.91,
+    "amount": 972.91
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 2,
+    "unit_price": 204.68,
+    "amount": 409.36
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 15,
+    "unit_price": 10.13,
+    "amount": 151.95
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10019.pdf",
+  "invoice_no": "INV-2026-10019",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-03-03",
+  "due_date": "2026-04-17",
+  "subtotal": 1197.61,
+  "tax": 119.76,
+  "total": 1317.37,
+  "check": [],
+  "items": [
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 298.3,
+    "amount": 298.3
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 9,
+    "unit_price": 22.04,
+    "amount": 198.36
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 5,
+    "unit_price": 140.19,
+    "amount": 700.95
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10020.pdf",
+  "invoice_no": "INV-2026-10020",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-08-24",
+  "due_date": "2026-09-23",
+  "subtotal": 11218.72,
+  "tax": 953.59,
+  "total": 12172.31,
+  "check": [],
+  "items": [
+   {
+    "description": "Graphic design, per hour",
+    "qty": 13,
+    "unit_price": 68.79,
+    "amount": 894.27
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 32,
+    "unit_price": 5.05,
+    "amount": 161.6
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 10,
+    "unit_price": 13.23,
+    "amount": 132.3
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 45,
+    "unit_price": 6.3,
+    "amount": 283.5
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 3,
+    "unit_price": 182.05,
+    "amount": 546.15
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 7,
+    "unit_price": 125.72,
+    "amount": 880.04
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 12,
+    "unit_price": 41.88,
+    "amount": 502.56
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 449.5,
+    "amount": 899.0
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 13,
+    "unit_price": 14.49,
+    "amount": 188.37
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 401.43,
+    "amount": 802.86
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 7,
+    "unit_price": 17.8,
+    "amount": 124.6
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 3,
+    "unit_price": 182.24,
+    "amount": 546.72
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 8,
+    "unit_price": 10.16,
+    "amount": 81.28
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 131,
+    "unit_price": 4.0,
+    "amount": 524.0
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 14,
+    "unit_price": 26.96,
+    "amount": 377.44
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 30,
+    "unit_price": 13.92,
+    "amount": 417.6
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 5,
+    "unit_price": 195.59,
+    "amount": 977.95
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 1,
+    "unit_price": 11.93,
+    "amount": 11.93
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 58,
+    "unit_price": 6.9,
+    "amount": 400.2
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 3,
+    "unit_price": 124.26,
+    "amount": 372.78
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 2,
+    "unit_price": 192.84,
+    "amount": 385.68
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 44,
+    "unit_price": 6.07,
+    "amount": 267.08
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 5,
+    "unit_price": 65.81,
+    "amount": 329.05
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 5,
+    "unit_price": 125.19,
+    "amount": 625.95
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 4,
+    "unit_price": 10.64,
+    "amount": 42.56
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 5,
+    "unit_price": 88.65,
+    "amount": 443.25
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10021.pdf",
+  "invoice_no": "INV-2026-10021",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-05-09",
+  "subtotal": 2751.58,
+  "tax": 275.16,
+  "total": 3026.74,
+  "check": [],
+  "items": [
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 4,
+    "unit_price": 43.43,
+    "amount": 173.72
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 9,
+    "unit_price": 124.1,
+    "amount": 1116.9
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 6,
+    "unit_price": 114.4,
+    "amount": 686.4
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 1,
+    "unit_price": 56.34,
+    "amount": 56.34
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 50,
+    "unit_price": 6.4,
+    "amount": 320.0
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 7,
+    "unit_price": 17.91,
+    "amount": 125.37
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 1,
+    "unit_price": 146.9,
+    "amount": 146.9
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 5,
+    "unit_price": 25.19,
+    "amount": 125.95
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10022.pdf",
+  "invoice_no": "INV-2026-10022",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-10-02",
+  "due_date": "2026-11-01",
+  "subtotal": 1337.45,
+  "tax": 0.0,
+  "total": 1337.45,
+  "check": [],
+  "items": [
+   {
+    "description": "Paint, 10 L white",
+    "qty": 14,
+    "unit_price": 46.8,
+    "amount": 655.2
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 2,
+    "unit_price": 53.5,
+    "amount": 107.0
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 5,
+    "unit_price": 115.05,
+    "amount": 575.25
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10023.pdf",
+  "invoice_no": "INV-2026-10023",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-03-11",
+  "due_date": "2026-04-25",
+  "subtotal": 2001.43,
+  "tax": 300.21,
+  "total": 2301.64,
+  "check": [],
+  "items": [
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 5,
+    "unit_price": 8.68,
+    "amount": 43.4
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 8,
+    "unit_price": 30.85,
+    "amount": 246.8
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 91.29,
+    "amount": 91.29
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 19,
+    "unit_price": 85.26,
+    "amount": 1619.94
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10024.pdf",
+  "invoice_no": "INV-2026-10024",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-03-17",
+  "subtotal": 4926.92,
+  "tax": 739.04,
+  "total": 5665.96,
+  "check": [],
+  "items": [
+   {
+    "description": "27-inch monitor",
+    "qty": 1,
+    "unit_price": 187.92,
+    "amount": 187.92
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 19,
+    "unit_price": 16.59,
+    "amount": 315.21
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 75.8,
+    "amount": 303.2
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 1,
+    "unit_price": 4.79,
+    "amount": 4.79
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 962.19,
+    "amount": 1924.38
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 8,
+    "unit_price": 127.26,
+    "amount": 1018.08
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 2,
+    "unit_price": 180.96,
+    "amount": 361.92
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 91,
+    "unit_price": 6.99,
+    "amount": 636.09
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 175.33,
+    "amount": 175.33
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10025.pdf",
+  "invoice_no": "INV-2026-10025",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-04-14",
+  "due_date": "2026-04-28",
+  "subtotal": 616.99,
+  "tax": 30.85,
+  "total": 647.84,
+  "check": [],
+  "items": [
+   {
+    "description": "Graphic design, per hour",
+    "qty": 2,
+    "unit_price": 90.27,
+    "amount": 180.54
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 47,
+    "unit_price": 7.08,
+    "amount": 332.76
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 1,
+    "unit_price": 57.27,
+    "amount": 57.27
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 2,
+    "unit_price": 23.21,
+    "amount": 46.42
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10026.pdf",
+  "invoice_no": "INV-2026-10026",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-08-19",
+  "due_date": "2026-09-02",
+  "subtotal": 5635.43,
+  "tax": 394.48,
+  "total": 6029.91,
+  "check": [],
+  "items": [
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 553.85,
+    "amount": 553.85
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 20,
+    "unit_price": 73.99,
+    "amount": 1479.8
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 16,
+    "unit_price": 71.18,
+    "amount": 1138.88
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 3,
+    "unit_price": 171.72,
+    "amount": 515.16
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 2,
+    "unit_price": 10.85,
+    "amount": 21.7
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 14,
+    "unit_price": 7.14,
+    "amount": 99.96
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 190.39,
+    "amount": 190.39
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 12,
+    "unit_price": 25.96,
+    "amount": 311.52
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 15,
+    "unit_price": 8.93,
+    "amount": 133.95
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 3,
+    "unit_price": 54.44,
+    "amount": 163.32
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 24,
+    "unit_price": 18.56,
+    "amount": 445.44
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 96.91,
+    "amount": 581.46
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10027.pdf",
+  "invoice_no": "INV-2026-10027",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-01-20",
+  "due_date": "2026-03-06",
+  "subtotal": 1269.65,
+  "tax": 190.45,
+  "total": 1460.1,
+  "check": [],
+  "items": [
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 6,
+    "unit_price": 9.93,
+    "amount": 59.58
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 214.44,
+    "amount": 428.88
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 4,
+    "unit_price": 75.23,
+    "amount": 300.92
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 2,
+    "unit_price": 109.9,
+    "amount": 219.8
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 7,
+    "unit_price": 37.21,
+    "amount": 260.47
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10028.pdf",
+  "invoice_no": "INV-2026-10028",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-06-16",
+  "due_date": "2026-07-16",
+  "subtotal": 2250.68,
+  "tax": 337.6,
+  "total": 2588.28,
+  "check": [],
+  "items": [
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 2,
+    "unit_price": 15.33,
+    "amount": 30.66
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 175.39,
+    "amount": 350.78
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 327.42,
+    "amount": 654.84
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 10,
+    "unit_price": 121.44,
+    "amount": 1214.4
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10029.pdf",
+  "invoice_no": "INV-2026-10029",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-08-21",
+  "due_date": "2026-09-04",
+  "subtotal": 8837.43,
+  "tax": 751.18,
+  "total": 9588.61,
+  "check": [],
+  "items": [
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 388.35,
+    "amount": 388.35
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 8,
+    "unit_price": 39.65,
+    "amount": 317.2
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 909.42,
+    "amount": 1818.84
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 127,
+    "unit_price": 3.7,
+    "amount": 469.9
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 6,
+    "unit_price": 68.28,
+    "amount": 409.68
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 98.53,
+    "amount": 591.18
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 6,
+    "unit_price": 143.34,
+    "amount": 860.04
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 907.56,
+    "amount": 1815.12
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 9,
+    "unit_price": 9.06,
+    "amount": 81.54
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 16,
+    "unit_price": 96.24,
+    "amount": 1539.84
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 4,
+    "unit_price": 84.08,
+    "amount": 336.32
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 3,
+    "unit_price": 36.02,
+    "amount": 108.06
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 2,
+    "unit_price": 33.36,
+    "amount": 66.72
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 4,
+    "unit_price": 8.66,
+    "amount": 34.64
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10030.pdf",
+  "invoice_no": "INV-2026-10030",
+  "vendor": "Kestrel Logistics",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-04-11",
+  "due_date": "2026-05-11",
+  "subtotal": 2483.01,
+  "tax": 173.81,
+  "total": 2656.82,
+  "check": [],
+  "items": [
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 2,
+    "unit_price": 139.43,
+    "amount": 278.86
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 432.79,
+    "amount": 865.58
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 48,
+    "unit_price": 17.61,
+    "amount": 845.28
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 66.67,
+    "amount": 266.68
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 1,
+    "unit_price": 226.61,
+    "amount": 226.61
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10031.pdf",
+  "invoice_no": "INV-2026-10031",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-06-04",
+  "due_date": "2026-06-18",
+  "subtotal": 2540.87,
+  "tax": 177.86,
+  "total": 2718.73,
+  "check": [],
+  "items": [
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 9,
+    "unit_price": 23.47,
+    "amount": 211.23
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 8,
+    "unit_price": 43.5,
+    "amount": 348.0
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 1,
+    "unit_price": 36.29,
+    "amount": 36.29
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 27,
+    "unit_price": 72.05,
+    "amount": 1945.35
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10032.pdf",
+  "invoice_no": "INV-2026-10032",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-07-26",
+  "due_date": "2026-09-09",
+  "subtotal": 3533.97,
+  "tax": 300.39,
+  "total": 3834.36,
+  "check": [],
+  "items": [
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 2,
+    "unit_price": 48.95,
+    "amount": 97.9
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 261.89,
+    "amount": 523.78
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 7,
+    "unit_price": 4.97,
+    "amount": 34.79
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 14,
+    "unit_price": 11.03,
+    "amount": 154.42
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 3,
+    "unit_price": 121.47,
+    "amount": 364.41
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 1,
+    "unit_price": 70.84,
+    "amount": 70.84
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 1,
+    "unit_price": 158.97,
+    "amount": 158.97
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 87,
+    "unit_price": 6.29,
+    "amount": 547.23
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 1,
+    "unit_price": 79.17,
+    "amount": 79.17
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 18,
+    "unit_price": 83.47,
+    "amount": 1502.46
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10033.pdf",
+  "invoice_no": "INV-2026-10033",
+  "vendor": "Kestrel Logistics",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-01-08",
+  "due_date": "2026-02-07",
+  "subtotal": 3597.84,
+  "tax": 305.82,
+  "total": 3903.66,
+  "check": [],
+  "items": [
+   {
+    "description": "Consulting services, per hour",
+    "qty": 26,
+    "unit_price": 107.18,
+    "amount": 2786.68
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 37,
+    "unit_price": 7.04,
+    "amount": 260.48
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 7,
+    "unit_price": 6.14,
+    "amount": 42.98
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 27,
+    "unit_price": 12.96,
+    "amount": 349.92
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 7,
+    "unit_price": 22.54,
+    "amount": 157.78
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10034.pdf",
+  "invoice_no": "INV-2026-10034",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-06-19",
+  "due_date": "2026-07-03",
+  "subtotal": 7499.59,
+  "tax": 1124.94,
+  "total": 8624.53,
+  "check": [],
+  "items": [
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 7,
+    "unit_price": 10.54,
+    "amount": 73.78
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 15,
+    "unit_price": 25.97,
+    "amount": 389.55
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 1,
+    "unit_price": 103.61,
+    "amount": 103.61
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 21,
+    "unit_price": 9.62,
+    "amount": 202.02
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 3,
+    "unit_price": 12.52,
+    "amount": 37.56
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 17,
+    "unit_price": 20.58,
+    "amount": 349.86
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 19,
+    "unit_price": 11.66,
+    "amount": 221.54
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 5,
+    "unit_price": 84.88,
+    "amount": 424.4
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 25,
+    "unit_price": 93.75,
+    "amount": 2343.75
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 5,
+    "unit_price": 44.13,
+    "amount": 220.65
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 4,
+    "unit_price": 76.6,
+    "amount": 306.4
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 3,
+    "unit_price": 17.93,
+    "amount": 53.79
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 15,
+    "unit_price": 104.35,
+    "amount": 1565.25
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 8,
+    "unit_price": 45.24,
+    "amount": 361.92
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 2,
+    "unit_price": 136.34,
+    "amount": 272.68
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 6,
+    "unit_price": 17.96,
+    "amount": 107.76
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 203.05,
+    "amount": 406.1
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 1,
+    "unit_price": 58.97,
+    "amount": 58.97
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10035.pdf",
+  "invoice_no": "INV-2026-10035",
+  "vendor": "Nimbus Cloud Hosting",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-02-08",
+  "subtotal": 4366.65,
+  "tax": 371.17,
+  "total": 4737.82,
+  "check": [],
+  "items": [
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 86.53,
+    "amount": 519.18
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 7,
+    "unit_price": 120.68,
+    "amount": 844.76
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 15,
+    "unit_price": 23.55,
+    "amount": 353.25
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 1,
+    "unit_price": 204.34,
+    "amount": 204.34
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 15,
+    "unit_price": 75.53,
+    "amount": 1132.95
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 915.89,
+    "amount": 915.89
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 4,
+    "unit_price": 10.17,
+    "amount": 40.68
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 28,
+    "unit_price": 12.7,
+    "amount": 355.6
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10036.pdf",
+  "invoice_no": "INV-2026-10036",
+  "vendor": "Kestrel Logistics",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-09-21",
+  "due_date": "2026-10-05",
+  "subtotal": 8193.53,
+  "tax": 819.35,
+  "total": 9012.88,
+  "check": [],
+  "items": [
+   {
+    "description": "Business cards, box of 250",
+    "qty": 12,
+    "unit_price": 30.58,
+    "amount": 366.96
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 3,
+    "unit_price": 228.3,
+    "amount": 684.9
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 1,
+    "unit_price": 141.95,
+    "amount": 141.95
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 193.17,
+    "amount": 386.34
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 10,
+    "unit_price": 98.61,
+    "amount": 986.1
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 15,
+    "unit_price": 83.24,
+    "amount": 1248.6
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 40,
+    "unit_price": 14.69,
+    "amount": 587.6
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 21,
+    "unit_price": 114.82,
+    "amount": 2411.22
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 59,
+    "unit_price": 16.79,
+    "amount": 990.61
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 15,
+    "unit_price": 25.95,
+    "amount": 389.25
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10037.pdf",
+  "invoice_no": "INV-2026-10037",
+  "vendor": "Vertex Print Works",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-01-29",
+  "due_date": "2026-03-15",
+  "subtotal": 2121.63,
+  "tax": 148.51,
+  "total": 2270.14,
+  "check": [],
+  "items": [
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 219.48,
+    "amount": 438.96
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 87,
+    "unit_price": 18.15,
+    "amount": 1579.05
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 6,
+    "unit_price": 17.27,
+    "amount": 103.62
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10038.pdf",
+  "invoice_no": "INV-2026-10038",
+  "vendor": "Orbit IT Support",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-06-14",
+  "due_date": "2026-07-29",
+  "subtotal": 2084.86,
+  "tax": 208.49,
+  "total": 2293.35,
+  "check": [],
+  "items": [
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 5,
+    "unit_price": 43.53,
+    "amount": 217.65
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 24,
+    "unit_price": 13.56,
+    "amount": 325.44
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 7,
+    "unit_price": 81.0,
+    "amount": 567.0
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 12,
+    "unit_price": 8.06,
+    "amount": 96.72
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 8,
+    "unit_price": 9.18,
+    "amount": 73.44
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 222.63,
+    "amount": 445.26
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 5,
+    "unit_price": 71.87,
+    "amount": 359.35
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10039.pdf",
+  "invoice_no": "INV-2026-10039",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-09-05",
+  "due_date": "2026-09-19",
+  "subtotal": 3595.26,
+  "tax": 251.67,
+  "total": 3846.93,
+  "check": [],
+  "items": [
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 457.68,
+    "amount": 915.36
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 2,
+    "unit_price": 20.22,
+    "amount": 40.44
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 20,
+    "unit_price": 77.79,
+    "amount": 1555.8
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 52.76,
+    "amount": 52.76
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 20,
+    "unit_price": 11.38,
+    "amount": 227.6
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 35,
+    "unit_price": 11.98,
+    "amount": 419.3
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 5,
+    "unit_price": 76.8,
+    "amount": 384.0
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10040.pdf",
+  "invoice_no": "INV-2026-10040",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-03-13",
+  "subtotal": 3958.76,
+  "tax": 197.94,
+  "total": 4156.7,
+  "check": [],
+  "items": [
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 15,
+    "unit_price": 7.28,
+    "amount": 109.2
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 28,
+    "unit_price": 9.15,
+    "amount": 256.2
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 52,
+    "unit_price": 21.73,
+    "amount": 1129.96
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 4,
+    "unit_price": 4.99,
+    "amount": 19.96
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 3,
+    "unit_price": 228.46,
+    "amount": 685.38
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 20,
+    "unit_price": 46.54,
+    "amount": 930.8
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 8,
+    "unit_price": 73.28,
+    "amount": 586.24
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 3,
+    "unit_price": 3.94,
+    "amount": 11.82
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 4,
+    "unit_price": 57.3,
+    "amount": 229.2
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10041.pdf",
+  "invoice_no": "INV-2026-10041",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-03-29",
+  "subtotal": 3456.25,
+  "tax": 293.78,
+  "total": 3750.03,
+  "check": [],
+  "items": [
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 26,
+    "unit_price": 6.66,
+    "amount": 173.16
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 11,
+    "unit_price": 27.56,
+    "amount": 303.16
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 3,
+    "unit_price": 233.7,
+    "amount": 701.1
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 73.9,
+    "amount": 443.4
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 6,
+    "unit_price": 117.19,
+    "amount": 703.14
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 14,
+    "unit_price": 16.99,
+    "amount": 237.86
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 894.43,
+    "amount": 894.43
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10042.pdf",
+  "invoice_no": "INV-2026-10042",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-07-18",
+  "due_date": "2026-09-01",
+  "subtotal": 2771.76,
+  "tax": 194.02,
+  "total": 2965.78,
+  "check": [],
+  "items": [
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 1,
+    "unit_price": 62.17,
+    "amount": 62.17
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 215.13,
+    "amount": 1290.78
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 9,
+    "unit_price": 17.33,
+    "amount": 155.97
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 3,
+    "unit_price": 162.27,
+    "amount": 486.81
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 11,
+    "unit_price": 4.29,
+    "amount": 47.19
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 4,
+    "unit_price": 147.35,
+    "amount": 589.4
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 4,
+    "unit_price": 34.86,
+    "amount": 139.44
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10043.pdf",
+  "invoice_no": "INV-2026-10043",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-05-02",
+  "subtotal": 4540.55,
+  "tax": 227.03,
+  "total": 4767.58,
+  "check": [],
+  "items": [
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 23,
+    "unit_price": 15.26,
+    "amount": 350.98
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 4,
+    "unit_price": 76.4,
+    "amount": 305.6
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 19,
+    "unit_price": 84.27,
+    "amount": 1601.13
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 13,
+    "unit_price": 148.37,
+    "amount": 1928.81
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 298.68,
+    "amount": 298.68
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 55.35,
+    "amount": 55.35
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10044.pdf",
+  "invoice_no": "INV-2026-10044",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-04-19",
+  "due_date": "2026-05-19",
+  "subtotal": 2256.66,
+  "tax": 0.0,
+  "total": 2256.66,
+  "check": [],
+  "items": [
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 89.86,
+    "amount": 89.86
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 305.88,
+    "amount": 611.76
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 2,
+    "unit_price": 37.26,
+    "amount": 74.52
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 4,
+    "unit_price": 14.04,
+    "amount": 56.16
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 4,
+    "unit_price": 116.58,
+    "amount": 466.32
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 14,
+    "unit_price": 11.22,
+    "amount": 157.08
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 400.48,
+    "amount": 800.96
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10045.pdf",
+  "invoice_no": "INV-2026-10045",
+  "vendor": "Vertex Print Works",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-07-01",
+  "due_date": "2026-07-31",
+  "subtotal": 1424.78,
+  "tax": 142.48,
+  "total": 1567.26,
+  "check": [],
+  "items": [
+   {
+    "description": "Black toner cartridge",
+    "qty": 3,
+    "unit_price": 59.07,
+    "amount": 177.21
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 511.34,
+    "amount": 511.34
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 11,
+    "unit_price": 25.93,
+    "amount": 285.23
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 8,
+    "unit_price": 29.64,
+    "amount": 237.12
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 4,
+    "unit_price": 53.47,
+    "amount": 213.88
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10046.pdf",
+  "invoice_no": "INV-2026-10046",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-03-30",
+  "due_date": "2026-04-13",
+  "subtotal": 9651.43,
+  "tax": 1447.71,
+  "total": 11099.14,
+  "check": [],
+  "items": [
+   {
+    "description": "Software licence, annual",
+    "qty": 23,
+    "unit_price": 161.31,
+    "amount": 3710.13
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 10,
+    "unit_price": 11.48,
+    "amount": 114.8
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 28,
+    "unit_price": 80.8,
+    "amount": 2262.4
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 5,
+    "unit_price": 56.59,
+    "amount": 282.95
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 186.94,
+    "amount": 186.94
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 8,
+    "unit_price": 39.37,
+    "amount": 314.96
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 260.89,
+    "amount": 521.78
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 5,
+    "unit_price": 26.92,
+    "amount": 134.6
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 19,
+    "unit_price": 111.73,
+    "amount": 2122.87
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10047.pdf",
+  "invoice_no": "INV-2026-10047",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-05-21",
+  "due_date": "2026-06-20",
+  "subtotal": 9674.89,
+  "tax": 483.74,
+  "total": 10158.63,
+  "check": [],
+  "items": [
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 1,
+    "unit_price": 231.25,
+    "amount": 231.25
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 7,
+    "unit_price": 12.88,
+    "amount": 90.16
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 29,
+    "unit_price": 13.99,
+    "amount": 405.71
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 7,
+    "unit_price": 11.75,
+    "amount": 82.25
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 3,
+    "unit_price": 57.81,
+    "amount": 173.43
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 7,
+    "unit_price": 78.68,
+    "amount": 550.76
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 3,
+    "unit_price": 24.94,
+    "amount": 74.82
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 15,
+    "unit_price": 63.05,
+    "amount": 945.75
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 84.99,
+    "amount": 254.97
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 5,
+    "unit_price": 21.43,
+    "amount": 107.15
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 18,
+    "unit_price": 43.58,
+    "amount": 784.44
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 30,
+    "unit_price": 97.42,
+    "amount": 2922.6
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 58.53,
+    "amount": 234.12
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 939.16,
+    "amount": 2817.48
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10048.pdf",
+  "invoice_no": "INV-2026-10048",
+  "vendor": "Nimbus Cloud Hosting",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-06-05",
+  "due_date": "2026-07-05",
+  "subtotal": 1822.1,
+  "tax": 273.32,
+  "total": 2095.42,
+  "check": [],
+  "items": [
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 8,
+    "unit_price": 9.34,
+    "amount": 74.72
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 12,
+    "unit_price": 16.37,
+    "amount": 196.44
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 4,
+    "unit_price": 27.65,
+    "amount": 110.6
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 3,
+    "unit_price": 43.1,
+    "amount": 129.3
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 4,
+    "unit_price": 35.03,
+    "amount": 140.12
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 26,
+    "unit_price": 7.96,
+    "amount": 206.96
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 4,
+    "unit_price": 81.56,
+    "amount": 326.24
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 2,
+    "unit_price": 33.59,
+    "amount": 67.18
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 15,
+    "unit_price": 12.78,
+    "amount": 191.7
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 28,
+    "unit_price": 13.53,
+    "amount": 378.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10049.pdf",
+  "invoice_no": "INV-2026-10049",
+  "vendor": "Kestrel Logistics",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-06-21",
+  "due_date": "2026-07-05",
+  "subtotal": 7492.86,
+  "tax": 374.64,
+  "total": 7867.5,
+  "check": [],
+  "items": [
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 1,
+    "unit_price": 13.3,
+    "amount": 13.3
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 147,
+    "unit_price": 4.45,
+    "amount": 654.15
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 109,
+    "unit_price": 5.93,
+    "amount": 646.37
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 22,
+    "unit_price": 64.58,
+    "amount": 1420.76
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 4,
+    "unit_price": 218.92,
+    "amount": 875.68
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 2,
+    "unit_price": 78.51,
+    "amount": 157.02
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 7,
+    "unit_price": 136.23,
+    "amount": 953.61
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 17,
+    "unit_price": 113.03,
+    "amount": 1921.51
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 4,
+    "unit_price": 94.36,
+    "amount": 377.44
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 67,
+    "unit_price": 7.06,
+    "amount": 473.02
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10050.pdf",
+  "invoice_no": "INV-2026-10050",
+  "vendor": "Orbit IT Support",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-08-03",
+  "due_date": "2026-09-17",
+  "subtotal": 3325.85,
+  "tax": 232.81,
+  "total": 3558.66,
+  "check": [],
+  "items": [
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 59.43,
+    "amount": 237.72
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 9,
+    "unit_price": 48.47,
+    "amount": 436.23
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 726.95,
+    "amount": 2180.85
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 5,
+    "unit_price": 94.21,
+    "amount": 471.05
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10051.pdf",
+  "invoice_no": "INV-2026-10051",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-08-08",
+  "due_date": "2026-09-22",
+  "subtotal": 1767.5,
+  "tax": 0.0,
+  "total": 1767.5,
+  "check": [],
+  "items": [
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 13,
+    "unit_price": 30.45,
+    "amount": 395.85
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 41,
+    "unit_price": 11.13,
+    "amount": 456.33
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 49,
+    "unit_price": 18.68,
+    "amount": 915.32
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10052.pdf",
+  "invoice_no": "INV-2026-10052",
+  "vendor": "Vertex Print Works",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-03-20",
+  "due_date": "2026-04-19",
+  "subtotal": 1116.1,
+  "tax": 167.42,
+  "total": 1283.52,
+  "check": [],
+  "items": [
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 4,
+    "unit_price": 33.9,
+    "amount": 135.6
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 17,
+    "unit_price": 14.37,
+    "amount": 244.29
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 15,
+    "unit_price": 10.84,
+    "amount": 162.6
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 1,
+    "unit_price": 139.69,
+    "amount": 139.69
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 8,
+    "unit_price": 54.24,
+    "amount": 433.92
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10053.pdf",
+  "invoice_no": "INV-2026-10053",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-09-10",
+  "due_date": "2026-10-10",
+  "subtotal": 3677.06,
+  "tax": 257.39,
+  "total": 3934.45,
+  "check": [],
+  "items": [
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 189.01,
+    "amount": 1134.06
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 3,
+    "unit_price": 127.98,
+    "amount": 383.94
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 9,
+    "unit_price": 79.22,
+    "amount": 712.98
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 7,
+    "unit_price": 72.9,
+    "amount": 510.3
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 1,
+    "unit_price": 128.94,
+    "amount": 128.94
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 46,
+    "unit_price": 17.54,
+    "amount": 806.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10054.pdf",
+  "invoice_no": "INV-2026-10054",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-03-31",
+  "due_date": "2026-05-15",
+  "subtotal": 2764.4,
+  "tax": 138.22,
+  "total": 2902.62,
+  "check": [],
+  "items": [
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 4,
+    "unit_price": 74.19,
+    "amount": 296.76
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 3,
+    "unit_price": 30.81,
+    "amount": 92.43
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 41,
+    "unit_price": 13.81,
+    "amount": 566.21
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 14,
+    "unit_price": 5.54,
+    "amount": 77.56
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 491.98,
+    "amount": 983.96
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 28,
+    "unit_price": 7.74,
+    "amount": 216.72
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 12,
+    "unit_price": 44.23,
+    "amount": 530.76
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10055.pdf",
+  "invoice_no": "INV-2026-10055",
+  "vendor": "Nimbus Cloud Hosting",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-06-23",
+  "due_date": "2026-07-07",
+  "subtotal": 8164.37,
+  "tax": 0.0,
+  "total": 8164.37,
+  "check": [],
+  "items": [
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 248.96,
+    "amount": 1493.76
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 8,
+    "unit_price": 55.23,
+    "amount": 441.84
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 3,
+    "unit_price": 20.53,
+    "amount": 61.59
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 4,
+    "unit_price": 40.74,
+    "amount": 162.96
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 7,
+    "unit_price": 61.34,
+    "amount": 429.38
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 124.62,
+    "amount": 498.48
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 195.96,
+    "amount": 391.92
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 23,
+    "unit_price": 8.58,
+    "amount": 197.34
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 6,
+    "unit_price": 85.27,
+    "amount": 511.62
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 11,
+    "unit_price": 5.34,
+    "amount": 58.74
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 838.52,
+    "amount": 2515.56
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 449.99,
+    "amount": 899.98
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 87,
+    "unit_price": 5.54,
+    "amount": 481.98
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 1,
+    "unit_price": 19.22,
+    "amount": 19.22
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10056.pdf",
+  "invoice_no": "INV-2026-10056",
+  "vendor": "Orbit IT Support",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-02-24",
+  "subtotal": 9573.47,
+  "tax": 1436.02,
+  "total": 11009.49,
+  "check": [],
+  "items": [
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 2,
+    "unit_price": 7.67,
+    "amount": 15.34
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 81,
+    "unit_price": 5.67,
+    "amount": 459.27
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 6,
+    "unit_price": 34.43,
+    "amount": 206.58
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 18,
+    "unit_price": 20.73,
+    "amount": 373.14
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 10,
+    "unit_price": 138.25,
+    "amount": 1382.5
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 65,
+    "unit_price": 4.39,
+    "amount": 285.35
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 446.43,
+    "amount": 892.86
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 13,
+    "unit_price": 78.68,
+    "amount": 1022.84
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 65,
+    "unit_price": 18.28,
+    "amount": 1188.2
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 21,
+    "unit_price": 141.33,
+    "amount": 2967.93
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 3,
+    "unit_price": 198.36,
+    "amount": 595.08
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 2,
+    "unit_price": 92.19,
+    "amount": 184.38
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10057.pdf",
+  "invoice_no": "INV-2026-10057",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-01-11",
+  "due_date": "2026-02-10",
+  "subtotal": 4834.53,
+  "tax": 410.94,
+  "total": 5245.47,
+  "check": [],
+  "items": [
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 183.36,
+    "amount": 366.72
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 3,
+    "unit_price": 4.17,
+    "amount": 12.51
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 5,
+    "unit_price": 127.2,
+    "amount": 636.0
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 3,
+    "unit_price": 229.43,
+    "amount": 688.29
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 20,
+    "unit_price": 13.45,
+    "amount": 269.0
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 4,
+    "unit_price": 8.44,
+    "amount": 33.76
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 900.95,
+    "amount": 2702.85
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 3,
+    "unit_price": 41.8,
+    "amount": 125.4
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10058.pdf",
+  "invoice_no": "INV-2026-10058",
+  "vendor": "Tandem Office Goods",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-05-07",
+  "subtotal": 2338.24,
+  "tax": 198.75,
+  "total": 2536.99,
+  "check": [],
+  "items": [
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 5,
+    "unit_price": 60.05,
+    "amount": 300.25
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 67.37,
+    "amount": 202.11
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 203.55,
+    "amount": 407.1
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 91.02,
+    "amount": 91.02
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 74,
+    "unit_price": 7.11,
+    "amount": 526.14
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 15,
+    "unit_price": 10.17,
+    "amount": 152.55
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 20,
+    "unit_price": 16.08,
+    "amount": 321.6
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 16,
+    "unit_price": 9.5,
+    "amount": 152.0
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 1,
+    "unit_price": 185.47,
+    "amount": 185.47
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10059.pdf",
+  "invoice_no": "INV-2026-10059",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-03-01",
+  "subtotal": 1924.2,
+  "tax": 288.63,
+  "total": 2212.83,
+  "check": [],
+  "items": [
+   {
+    "description": "27-inch monitor",
+    "qty": 1,
+    "unit_price": 200.58,
+    "amount": 200.58
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 222.33,
+    "amount": 444.66
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 73,
+    "unit_price": 17.52,
+    "amount": 1278.96
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10060.pdf",
+  "invoice_no": "INV-2026-10060",
+  "vendor": "Kestrel Logistics",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-03-31",
+  "due_date": "2026-04-14",
+  "subtotal": 5016.28,
+  "tax": 752.44,
+  "total": 5768.72,
+  "check": [],
+  "items": [
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 220.34,
+    "amount": 1322.04
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 1,
+    "unit_price": 73.9,
+    "amount": 73.9
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 4,
+    "unit_price": 3.85,
+    "amount": 15.4
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 7,
+    "unit_price": 9.5,
+    "amount": 66.5
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 32,
+    "unit_price": 103.89,
+    "amount": 3324.48
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 6,
+    "unit_price": 35.66,
+    "amount": 213.96
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10061.pdf",
+  "invoice_no": "INV-2026-10061",
+  "vendor": "Vertex Print Works",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-09-17",
+  "due_date": "2026-10-17",
+  "subtotal": 7157.67,
+  "tax": 715.77,
+  "total": 7873.44,
+  "check": [],
+  "items": [
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 62,
+    "unit_price": 6.33,
+    "amount": 392.46
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 9,
+    "unit_price": 44.23,
+    "amount": 398.07
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 5,
+    "unit_price": 134.67,
+    "amount": 673.35
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 10,
+    "unit_price": 159.64,
+    "amount": 1596.4
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 10,
+    "unit_price": 4.91,
+    "amount": 49.1
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 5,
+    "unit_price": 86.82,
+    "amount": 434.1
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 7,
+    "unit_price": 120.59,
+    "amount": 844.13
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 20,
+    "unit_price": 17.15,
+    "amount": 343.0
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 26,
+    "unit_price": 72.14,
+    "amount": 1875.64
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 21,
+    "unit_price": 4.3,
+    "amount": 90.3
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 41,
+    "unit_price": 4.45,
+    "amount": 182.45
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 92.89,
+    "amount": 278.67
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10062.pdf",
+  "invoice_no": "INV-2026-10062",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-04-23",
+  "due_date": "2026-05-07",
+  "subtotal": 5273.55,
+  "tax": 527.36,
+  "total": 5800.91,
+  "check": [],
+  "items": [
+   {
+    "description": "Graphic design, per hour",
+    "qty": 13,
+    "unit_price": 74.41,
+    "amount": 967.33
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 10,
+    "unit_price": 76.49,
+    "amount": 764.9
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 15,
+    "unit_price": 13.15,
+    "amount": 197.25
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 1,
+    "unit_price": 75.83,
+    "amount": 75.83
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 690.36,
+    "amount": 2071.08
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 50,
+    "unit_price": 11.16,
+    "amount": 558.0
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 19,
+    "unit_price": 12.28,
+    "amount": 233.32
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 67.64,
+    "amount": 405.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10063.pdf",
+  "invoice_no": "INV-2026-10063",
+  "vendor": "Kestrel Logistics",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-05-28",
+  "due_date": "2026-06-27",
+  "subtotal": 4013.44,
+  "tax": 280.94,
+  "total": 4294.38,
+  "check": [],
+  "items": [
+   {
+    "description": "Courier parcel, next day",
+    "qty": 26,
+    "unit_price": 14.81,
+    "amount": 385.06
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 8,
+    "unit_price": 7.12,
+    "amount": 56.96
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 12,
+    "unit_price": 95.72,
+    "amount": 1148.64
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 15,
+    "unit_price": 26.09,
+    "amount": 391.35
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 11,
+    "unit_price": 8.93,
+    "amount": 98.23
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 18,
+    "unit_price": 13.49,
+    "amount": 242.82
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 53.53,
+    "amount": 53.53
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 19,
+    "unit_price": 86.15,
+    "amount": 1636.85
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10064.pdf",
+  "invoice_no": "INV-2026-10064",
+  "vendor": "Orbit IT Support",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-07-15",
+  "due_date": "2026-08-14",
+  "subtotal": 10753.8,
+  "tax": 752.77,
+  "total": 11506.57,
+  "check": [],
+  "items": [
+   {
+    "description": "USB-C docking station",
+    "qty": 3,
+    "unit_price": 141.31,
+    "amount": 423.93
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 4,
+    "unit_price": 174.7,
+    "amount": 698.8
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 3,
+    "unit_price": 12.74,
+    "amount": 38.22
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 94.06,
+    "amount": 282.18
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 958.53,
+    "amount": 1917.06
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 401.01,
+    "amount": 802.02
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 5,
+    "unit_price": 9.53,
+    "amount": 47.65
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 21,
+    "unit_price": 62.01,
+    "amount": 1302.21
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 7,
+    "unit_price": 22.98,
+    "amount": 160.86
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 24,
+    "unit_price": 117.45,
+    "amount": 2818.8
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 6,
+    "unit_price": 60.58,
+    "amount": 363.48
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 56.79,
+    "amount": 340.74
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 1,
+    "unit_price": 248.83,
+    "amount": 248.83
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 220.1,
+    "amount": 440.2
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 1,
+    "unit_price": 97.95,
+    "amount": 97.95
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 1,
+    "unit_price": 35.55,
+    "amount": 35.55
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 5,
+    "unit_price": 92.36,
+    "amount": 461.8
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 8,
+    "unit_price": 34.19,
+    "amount": 273.52
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10065.pdf",
+  "invoice_no": "INV-2026-10065",
+  "vendor": "Kestrel Logistics",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "subtotal": 730.98,
+  "tax": 51.17,
+  "total": 782.15,
+  "check": [],
+  "items": [
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 30,
+    "unit_price": 9.19,
+    "amount": 275.7
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 30,
+    "unit_price": 5.12,
+    "amount": 153.6
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 1,
+    "unit_price": 44.73,
+    "amount": 44.73
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 3,
+    "unit_price": 85.65,
+    "amount": 256.95
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10066.pdf",
+  "invoice_no": "INV-2026-10066",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-04-18",
+  "due_date": "2026-05-18",
+  "subtotal": 7549.55,
+  "tax": 528.47,
+  "total": 8078.02,
+  "check": [],
+  "items": [
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 407.61,
+    "amount": 815.22
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 4,
+    "unit_price": 30.19,
+    "amount": 120.76
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 5,
+    "unit_price": 22.01,
+    "amount": 110.05
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 214.61,
+    "amount": 214.61
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 2,
+    "unit_price": 215.37,
+    "amount": 430.74
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 9,
+    "unit_price": 8.34,
+    "amount": 75.06
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 3,
+    "unit_price": 103.22,
+    "amount": 309.66
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 527.25,
+    "amount": 1054.5
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 8,
+    "unit_price": 58.09,
+    "amount": 464.72
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 698.62,
+    "amount": 1397.24
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 1,
+    "unit_price": 27.45,
+    "amount": 27.45
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 18,
+    "unit_price": 140.53,
+    "amount": 2529.54
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10067.pdf",
+  "invoice_no": "INV-2026-10067",
+  "vendor": "Tandem Office Goods",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-08-19",
+  "due_date": "2026-09-02",
+  "subtotal": 1534.98,
+  "tax": 107.45,
+  "total": 1642.43,
+  "check": [],
+  "items": [
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 7,
+    "unit_price": 33.71,
+    "amount": 235.97
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 4,
+    "unit_price": 112.38,
+    "amount": 449.52
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 558.65,
+    "amount": 558.65
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 4,
+    "unit_price": 72.71,
+    "amount": 290.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10068.pdf",
+  "invoice_no": "INV-2026-10068",
+  "vendor": "Tandem Office Goods",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-09-28",
+  "due_date": "2026-10-28",
+  "subtotal": 6354.62,
+  "tax": 0.0,
+  "total": 6354.62,
+  "check": [],
+  "items": [
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 11,
+    "unit_price": 4.98,
+    "amount": 54.78
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 9,
+    "unit_price": 145.6,
+    "amount": 1310.4
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 2,
+    "unit_price": 125.98,
+    "amount": 251.96
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 23,
+    "unit_price": 64.42,
+    "amount": 1481.66
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 14,
+    "unit_price": 8.63,
+    "amount": 120.82
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 25,
+    "unit_price": 76.76,
+    "amount": 1919.0
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 5,
+    "unit_price": 147.82,
+    "amount": 739.1
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 10,
+    "unit_price": 47.69,
+    "amount": 476.9
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10069.pdf",
+  "invoice_no": "INV-2026-10069",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-06-13",
+  "due_date": "2026-07-13",
+  "subtotal": 5676.53,
+  "tax": 283.83,
+  "total": 5960.36,
+  "check": [],
+  "items": [
+   {
+    "description": "Courier parcel, next day",
+    "qty": 22,
+    "unit_price": 12.27,
+    "amount": 269.94
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 3,
+    "unit_price": 68.49,
+    "amount": 205.47
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 2,
+    "unit_price": 131.87,
+    "amount": 263.74
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 32,
+    "unit_price": 17.1,
+    "amount": 547.2
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 2,
+    "unit_price": 20.5,
+    "amount": 41.0
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 19,
+    "unit_price": 24.37,
+    "amount": 463.03
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 23,
+    "unit_price": 4.76,
+    "amount": 109.48
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 17,
+    "unit_price": 33.38,
+    "amount": 567.46
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 46,
+    "unit_price": 12.09,
+    "amount": 556.14
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 12,
+    "unit_price": 34.72,
+    "amount": 416.64
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 226.63,
+    "amount": 453.26
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 15,
+    "unit_price": 84.43,
+    "amount": 1266.45
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 18,
+    "unit_price": 16.18,
+    "amount": 291.24
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 2,
+    "unit_price": 112.74,
+    "amount": 225.48
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10070.pdf",
+  "invoice_no": "INV-2026-10070",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-03-16",
+  "due_date": "2026-04-30",
+  "subtotal": 3871.48,
+  "tax": 0.0,
+  "total": 3871.48,
+  "check": [],
+  "items": [
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 5,
+    "unit_price": 42.0,
+    "amount": 210.0
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 737.37,
+    "amount": 2212.11
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 4,
+    "unit_price": 37.63,
+    "amount": 150.52
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 3,
+    "unit_price": 30.3,
+    "amount": 90.9
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 4,
+    "unit_price": 224.15,
+    "amount": 896.6
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 13,
+    "unit_price": 23.95,
+    "amount": 311.35
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10071.pdf",
+  "invoice_no": "INV-2026-10071",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-03-21",
+  "due_date": "2026-05-05",
+  "subtotal": 4777.49,
+  "tax": 0.0,
+  "total": 4777.49,
+  "check": [],
+  "items": [
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 786.74,
+    "amount": 2360.22
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 6,
+    "unit_price": 62.34,
+    "amount": 374.04
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 77,
+    "unit_price": 7.47,
+    "amount": 575.19
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 2,
+    "unit_price": 18.05,
+    "amount": 36.1
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 186.24,
+    "amount": 372.48
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 6,
+    "unit_price": 136.35,
+    "amount": 818.1
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 7,
+    "unit_price": 34.48,
+    "amount": 241.36
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10072.pdf",
+  "invoice_no": "INV-2026-10072",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-03-21",
+  "due_date": "2026-04-20",
+  "subtotal": 7377.9,
+  "tax": 627.12,
+  "total": 8005.02,
+  "check": [],
+  "items": [
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 24,
+    "unit_price": 4.02,
+    "amount": 96.48
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 1,
+    "unit_price": 235.14,
+    "amount": 235.14
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 9,
+    "unit_price": 54.77,
+    "amount": 492.93
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 5,
+    "unit_price": 71.28,
+    "amount": 356.4
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 25,
+    "unit_price": 14.49,
+    "amount": 362.25
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 677.59,
+    "amount": 2032.77
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 93.91,
+    "amount": 93.91
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 87,
+    "unit_price": 20.34,
+    "amount": 1769.58
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 1,
+    "unit_price": 34.05,
+    "amount": 34.05
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 2,
+    "unit_price": 68.78,
+    "amount": 137.56
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 61,
+    "unit_price": 5.04,
+    "amount": 307.44
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 437.47,
+    "amount": 437.47
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 8,
+    "unit_price": 83.04,
+    "amount": 664.32
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 15,
+    "unit_price": 23.84,
+    "amount": 357.6
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10073.pdf",
+  "invoice_no": "INV-2026-10073",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-03-02",
+  "due_date": "2026-04-01",
+  "subtotal": 14374.7,
+  "tax": 1006.23,
+  "total": 15380.93,
+  "check": [],
+  "items": [
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 486.42,
+    "amount": 972.84
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 32,
+    "unit_price": 21.17,
+    "amount": 677.44
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 5,
+    "unit_price": 36.76,
+    "amount": 183.8
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 21,
+    "unit_price": 70.33,
+    "amount": 1476.93
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 209.31,
+    "amount": 1255.86
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 3,
+    "unit_price": 229.98,
+    "amount": 689.94
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 3,
+    "unit_price": 94.86,
+    "amount": 284.58
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 4,
+    "unit_price": 129.57,
+    "amount": 518.28
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 7,
+    "unit_price": 38.37,
+    "amount": 268.59
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 1,
+    "unit_price": 14.15,
+    "amount": 14.15
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 16,
+    "unit_price": 93.06,
+    "amount": 1488.96
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 8,
+    "unit_price": 27.78,
+    "amount": 222.24
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 10,
+    "unit_price": 117.82,
+    "amount": 1178.2
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 2,
+    "unit_price": 66.37,
+    "amount": 132.74
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 29,
+    "unit_price": 14.19,
+    "amount": 411.51
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 13,
+    "unit_price": 21.19,
+    "amount": 275.47
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 48,
+    "unit_price": 14.73,
+    "amount": 707.04
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 8,
+    "unit_price": 22.3,
+    "amount": 178.4
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 14,
+    "unit_price": 8.08,
+    "amount": 113.12
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 9,
+    "unit_price": 14.28,
+    "amount": 128.52
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 67,
+    "unit_price": 16.43,
+    "amount": 1100.81
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 3,
+    "unit_price": 128.04,
+    "amount": 384.12
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 142.6,
+    "amount": 570.4
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 27,
+    "unit_price": 5.2,
+    "amount": 140.4
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 4,
+    "unit_price": 215.93,
+    "amount": 863.72
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 14,
+    "unit_price": 9.76,
+    "amount": 136.64
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10074.pdf",
+  "invoice_no": "INV-2026-10074",
+  "vendor": "Orbit IT Support",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-09-16",
+  "due_date": "2026-10-16",
+  "subtotal": 4485.46,
+  "tax": 313.98,
+  "total": 4799.44,
+  "check": [],
+  "items": [
+   {
+    "description": "Courier parcel, next day",
+    "qty": 19,
+    "unit_price": 12.64,
+    "amount": 240.16
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 18,
+    "unit_price": 19.48,
+    "amount": 350.64
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 1,
+    "unit_price": 33.78,
+    "amount": 33.78
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 13,
+    "unit_price": 82.21,
+    "amount": 1068.73
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 3,
+    "unit_price": 233.19,
+    "amount": 699.57
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 14,
+    "unit_price": 8.86,
+    "amount": 124.04
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 3,
+    "unit_price": 82.51,
+    "amount": 247.53
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 6,
+    "unit_price": 173.26,
+    "amount": 1039.56
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 6,
+    "unit_price": 111.81,
+    "amount": 670.86
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 3,
+    "unit_price": 3.53,
+    "amount": 10.59
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10075.pdf",
+  "invoice_no": "INV-2026-10075",
+  "vendor": "Tandem Office Goods",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-06-13",
+  "due_date": "2026-07-28",
+  "subtotal": 3939.03,
+  "tax": 275.73,
+  "total": 4214.76,
+  "check": [],
+  "items": [
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 133,
+    "unit_price": 4.84,
+    "amount": 643.72
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 100,
+    "unit_price": 4.25,
+    "amount": 425.0
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 80.95,
+    "amount": 242.85
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 5,
+    "unit_price": 4.77,
+    "amount": 23.85
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 7,
+    "unit_price": 34.89,
+    "amount": 244.23
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 21,
+    "unit_price": 12.46,
+    "amount": 261.66
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 29,
+    "unit_price": 7.59,
+    "amount": 220.11
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 63,
+    "unit_price": 6.37,
+    "amount": 401.31
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 9,
+    "unit_price": 160.8,
+    "amount": 1447.2
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 3,
+    "unit_price": 9.7,
+    "amount": 29.1
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10076.pdf",
+  "invoice_no": "INV-2026-10076",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-04-15",
+  "due_date": "2026-04-29",
+  "subtotal": 3904.53,
+  "tax": 0.0,
+  "total": 3904.53,
+  "check": [],
+  "items": [
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 9,
+    "unit_price": 168.74,
+    "amount": 1518.66
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 81,
+    "unit_price": 5.75,
+    "amount": 465.75
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 473.38,
+    "amount": 473.38
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 7,
+    "unit_price": 45.23,
+    "amount": 316.61
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 6,
+    "unit_price": 37.62,
+    "amount": 225.72
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 4,
+    "unit_price": 67.06,
+    "amount": 268.24
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 20,
+    "unit_price": 5.1,
+    "amount": 102.0
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 1,
+    "unit_price": 255.53,
+    "amount": 255.53
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 27,
+    "unit_price": 10.32,
+    "amount": 278.64
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10077.pdf",
+  "invoice_no": "INV-2026-10077",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-08-13",
+  "due_date": "2026-08-27",
+  "subtotal": 1221.78,
+  "tax": 103.85,
+  "total": 1325.63,
+  "check": [],
+  "items": [
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 9,
+    "unit_price": 38.71,
+    "amount": 348.39
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 7,
+    "unit_price": 53.44,
+    "amount": 374.08
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 6,
+    "unit_price": 8.67,
+    "amount": 52.02
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 2,
+    "unit_price": 21.45,
+    "amount": 42.9
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 404.39,
+    "amount": 404.39
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10078.pdf",
+  "invoice_no": "INV-2026-10078",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-01-27",
+  "due_date": "2026-02-10",
+  "subtotal": 1852.74,
+  "tax": 92.64,
+  "total": 1945.38,
+  "check": [],
+  "items": [
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 23,
+    "unit_price": 7.75,
+    "amount": 178.25
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 22,
+    "unit_price": 15.97,
+    "amount": 351.34
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 10,
+    "unit_price": 30.54,
+    "amount": 305.4
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 8,
+    "unit_price": 53.88,
+    "amount": 431.04
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 58.16,
+    "amount": 58.16
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 19,
+    "unit_price": 13.41,
+    "amount": 254.79
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 4,
+    "unit_price": 68.44,
+    "amount": 273.76
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10079.pdf",
+  "invoice_no": "INV-2026-10079",
+  "vendor": "Kestrel Logistics",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-04-28",
+  "due_date": "2026-05-28",
+  "subtotal": 2601.6,
+  "tax": 390.24,
+  "total": 2991.84,
+  "check": [],
+  "items": [
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 793.53,
+    "amount": 1587.06
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 8,
+    "unit_price": 80.72,
+    "amount": 645.76
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 368.78,
+    "amount": 368.78
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10080.pdf",
+  "invoice_no": "INV-2026-10080",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-07-21",
+  "due_date": "2026-08-20",
+  "subtotal": 1482.57,
+  "tax": 0.0,
+  "total": 1482.57,
+  "check": [],
+  "items": [
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 2,
+    "unit_price": 110.33,
+    "amount": 220.66
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 25,
+    "unit_price": 11.79,
+    "amount": 294.75
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 483.58,
+    "amount": 967.16
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10081.pdf",
+  "invoice_no": "INV-2026-10081",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-02-21",
+  "due_date": "2026-03-07",
+  "subtotal": 1756.66,
+  "tax": 87.83,
+  "total": 1844.49,
+  "check": [],
+  "items": [
+   {
+    "description": "Courier parcel, next day",
+    "qty": 36,
+    "unit_price": 12.09,
+    "amount": 435.24
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 8,
+    "unit_price": 47.21,
+    "amount": 377.68
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 7,
+    "unit_price": 103.68,
+    "amount": 725.76
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 3,
+    "unit_price": 72.66,
+    "amount": 217.98
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10082.pdf",
+  "invoice_no": "INV-2026-10082",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-03-10",
+  "due_date": "2026-03-24",
+  "subtotal": 7247.81,
+  "tax": 724.78,
+  "total": 7972.59,
+  "check": [],
+  "items": [
+   {
+    "description": "Paint, 10 L white",
+    "qty": 15,
+    "unit_price": 45.01,
+    "amount": 675.15
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 3,
+    "unit_price": 119.66,
+    "amount": 358.98
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 24,
+    "unit_price": 136.63,
+    "amount": 3279.12
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 10,
+    "unit_price": 166.1,
+    "amount": 1661.0
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 4,
+    "unit_price": 23.43,
+    "amount": 93.72
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 5,
+    "unit_price": 46.62,
+    "amount": 233.1
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 8,
+    "unit_price": 70.53,
+    "amount": 564.24
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 18,
+    "unit_price": 21.25,
+    "amount": 382.5
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10083.pdf",
+  "invoice_no": "INV-2026-10083",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-07-06",
+  "due_date": "2026-08-05",
+  "subtotal": 2350.85,
+  "tax": 352.63,
+  "total": 2703.48,
+  "check": [],
+  "items": [
+   {
+    "description": "Catering, per head",
+    "qty": 50,
+    "unit_price": 15.94,
+    "amount": 797.0
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 10,
+    "unit_price": 7.02,
+    "amount": 70.2
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 12,
+    "unit_price": 8.98,
+    "amount": 107.76
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 11,
+    "unit_price": 64.77,
+    "amount": 712.47
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 2,
+    "unit_price": 37.51,
+    "amount": 75.02
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 17,
+    "unit_price": 25.84,
+    "amount": 439.28
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 2,
+    "unit_price": 55.74,
+    "amount": 111.48
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 4,
+    "unit_price": 9.41,
+    "amount": 37.64
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10084.pdf",
+  "invoice_no": "INV-2026-10084",
+  "vendor": "Kestrel Logistics",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-03-11",
+  "subtotal": 6598.3,
+  "tax": 461.88,
+  "total": 7060.18,
+  "check": [],
+  "items": [
+   {
+    "description": "Black toner cartridge",
+    "qty": 3,
+    "unit_price": 69.55,
+    "amount": 208.65
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 58,
+    "unit_price": 12.94,
+    "amount": 750.52
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 974.98,
+    "amount": 974.98
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 12,
+    "unit_price": 14.06,
+    "amount": 168.72
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 3,
+    "unit_price": 33.73,
+    "amount": 101.19
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 78,
+    "unit_price": 21.16,
+    "amount": 1650.48
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 4,
+    "unit_price": 67.98,
+    "amount": 271.92
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 28,
+    "unit_price": 88.28,
+    "amount": 2471.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10085.pdf",
+  "invoice_no": "INV-2026-10085",
+  "vendor": "Kestrel Logistics",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-29",
+  "subtotal": 12563.18,
+  "tax": 1884.48,
+  "total": 14447.66,
+  "check": [],
+  "items": [
+   {
+    "description": "Technical support, per hour",
+    "qty": 19,
+    "unit_price": 73.44,
+    "amount": 1395.36
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 9,
+    "unit_price": 21.84,
+    "amount": 196.56
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 60,
+    "unit_price": 10.84,
+    "amount": 650.4
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 540.02,
+    "amount": 540.02
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 212.14,
+    "amount": 212.14
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 73.32,
+    "amount": 219.96
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 48,
+    "unit_price": 15.5,
+    "amount": 744.0
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 89,
+    "unit_price": 7.23,
+    "amount": 643.47
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 9,
+    "unit_price": 74.27,
+    "amount": 668.43
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 28,
+    "unit_price": 13.09,
+    "amount": 366.52
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 9,
+    "unit_price": 160.36,
+    "amount": 1443.24
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 17,
+    "unit_price": 33.13,
+    "amount": 563.21
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 14,
+    "unit_price": 151.1,
+    "amount": 2115.4
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 137.42,
+    "amount": 549.68
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 72.21,
+    "amount": 216.63
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 16,
+    "unit_price": 101.42,
+    "amount": 1622.72
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 1,
+    "unit_price": 110.07,
+    "amount": 110.07
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 27,
+    "unit_price": 11.31,
+    "amount": 305.37
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10086.pdf",
+  "invoice_no": "INV-2026-10086",
+  "vendor": "Orbit IT Support",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-04-20",
+  "subtotal": 1083.12,
+  "tax": 75.82,
+  "total": 1158.94,
+  "check": [],
+  "items": [
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 1,
+    "unit_price": 126.74,
+    "amount": 126.74
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 5,
+    "unit_price": 46.52,
+    "amount": 232.6
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 45,
+    "unit_price": 12.36,
+    "amount": 556.2
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 19,
+    "unit_price": 8.82,
+    "amount": 167.58
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10087.pdf",
+  "invoice_no": "INV-2026-10087",
+  "vendor": "Kestrel Logistics",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-08-15",
+  "due_date": "2026-09-14",
+  "subtotal": 8120.51,
+  "tax": 1218.08,
+  "total": 9338.59,
+  "check": [],
+  "items": [
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 922.33,
+    "amount": 1844.66
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 3,
+    "unit_price": 182.96,
+    "amount": 548.88
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 7,
+    "unit_price": 69.39,
+    "amount": 485.73
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 39,
+    "unit_price": 17.18,
+    "amount": 670.02
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 4,
+    "unit_price": 104.99,
+    "amount": 419.96
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 21,
+    "unit_price": 97.66,
+    "amount": 2050.86
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 10,
+    "unit_price": 20.55,
+    "amount": 205.5
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 281.07,
+    "amount": 281.07
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 3,
+    "unit_price": 91.91,
+    "amount": 275.73
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 10,
+    "unit_price": 133.81,
+    "amount": 1338.1
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10088.pdf",
+  "invoice_no": "INV-2026-10088",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-03-20",
+  "due_date": "2026-04-19",
+  "subtotal": 1700.4,
+  "tax": 0.0,
+  "total": 1700.4,
+  "check": [],
+  "items": [
+   {
+    "description": "Courier parcel, next day",
+    "qty": 59,
+    "unit_price": 11.3,
+    "amount": 666.7
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 500.05,
+    "amount": 1000.1
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 3,
+    "unit_price": 11.2,
+    "amount": 33.6
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10089.pdf",
+  "invoice_no": "INV-2026-10089",
+  "vendor": "Kestrel Logistics",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-09-26",
+  "due_date": "2026-10-26",
+  "subtotal": 11963.54,
+  "tax": 0.0,
+  "total": 11963.54,
+  "check": [],
+  "items": [
+   {
+    "description": "Consulting services, per hour",
+    "qty": 7,
+    "unit_price": 110.57,
+    "amount": 773.99
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 93.22,
+    "amount": 559.32
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 6,
+    "unit_price": 16.41,
+    "amount": 98.46
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 21,
+    "unit_price": 12.01,
+    "amount": 252.21
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 5,
+    "unit_price": 144.93,
+    "amount": 724.65
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 56.75,
+    "amount": 227.0
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 10,
+    "unit_price": 40.87,
+    "amount": 408.7
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 29,
+    "unit_price": 10.09,
+    "amount": 292.61
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 16,
+    "unit_price": 137.59,
+    "amount": 2201.44
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 20,
+    "unit_price": 103.65,
+    "amount": 2073.0
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 3,
+    "unit_price": 10.97,
+    "amount": 32.91
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 9,
+    "unit_price": 97.59,
+    "amount": 878.31
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 3,
+    "unit_price": 14.4,
+    "amount": 43.2
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 16,
+    "unit_price": 35.2,
+    "amount": 563.2
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 1,
+    "unit_price": 19.33,
+    "amount": 19.33
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 7,
+    "unit_price": 22.59,
+    "amount": 158.13
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 347.37,
+    "amount": 347.37
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 114,
+    "unit_price": 6.21,
+    "amount": 707.94
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 1,
+    "unit_price": 42.42,
+    "amount": 42.42
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 3,
+    "unit_price": 219.79,
+    "amount": 659.37
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 462.27,
+    "amount": 462.27
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 37,
+    "unit_price": 11.83,
+    "amount": 437.71
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10090.pdf",
+  "invoice_no": "INV-2026-10090",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-06-29",
+  "due_date": "2026-08-13",
+  "subtotal": 2022.91,
+  "tax": 303.44,
+  "total": 2326.35,
+  "check": [],
+  "items": [
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 13,
+    "unit_price": 11.45,
+    "amount": 148.85
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 10,
+    "unit_price": 155.87,
+    "amount": 1558.7
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 48,
+    "unit_price": 6.57,
+    "amount": 315.36
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10091.pdf",
+  "invoice_no": "INV-2026-10091",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-04-18",
+  "due_date": "2026-06-02",
+  "subtotal": 1325.85,
+  "tax": 66.29,
+  "total": 1392.14,
+  "check": [],
+  "items": [
+   {
+    "description": "Paint, 10 L white",
+    "qty": 3,
+    "unit_price": 34.53,
+    "amount": 103.59
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 18,
+    "unit_price": 24.24,
+    "amount": 436.32
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 47,
+    "unit_price": 6.69,
+    "amount": 314.43
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 13,
+    "unit_price": 36.27,
+    "amount": 471.51
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10092.pdf",
+  "invoice_no": "INV-2026-10092",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-07-05",
+  "due_date": "2026-07-19",
+  "subtotal": 8900.92,
+  "tax": 0.0,
+  "total": 8891.92,
+  "check": [
+   "total_mismatch"
+  ],
+  "items": [
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 2,
+    "unit_price": 60.13,
+    "amount": 120.26
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 8,
+    "unit_price": 61.15,
+    "amount": 489.2
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 831.86,
+    "amount": 831.86
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 1,
+    "unit_price": 254.79,
+    "amount": 254.79
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 297.32,
+    "amount": 594.64
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 9,
+    "unit_price": 26.22,
+    "amount": 235.98
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 1,
+    "unit_price": 221.27,
+    "amount": 221.27
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 18,
+    "unit_price": 10.65,
+    "amount": 191.7
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 10,
+    "unit_price": 50.96,
+    "amount": 509.6
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 3,
+    "unit_price": 9.74,
+    "amount": 29.22
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 178.56,
+    "amount": 357.12
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 2,
+    "unit_price": 19.18,
+    "amount": 38.36
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 15,
+    "unit_price": 130.95,
+    "amount": 1964.25
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 144.4,
+    "amount": 577.6
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 10,
+    "unit_price": 12.14,
+    "amount": 121.4
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 10,
+    "unit_price": 43.9,
+    "amount": 439.0
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 11,
+    "unit_price": 12.71,
+    "amount": 139.81
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 1,
+    "unit_price": 165.24,
+    "amount": 165.24
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 213.83,
+    "amount": 427.66
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 12,
+    "unit_price": 20.38,
+    "amount": 244.56
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 69.85,
+    "amount": 209.55
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 3,
+    "unit_price": 245.95,
+    "amount": 737.85
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10093.pdf",
+  "invoice_no": "INV-2026-10093",
+  "vendor": "Orbit IT Support",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-03-20",
+  "due_date": "2026-05-04",
+  "subtotal": 10589.28,
+  "tax": 1058.93,
+  "total": 11648.21,
+  "check": [],
+  "items": [
+   {
+    "description": "Paint, 10 L white",
+    "qty": 4,
+    "unit_price": 44.33,
+    "amount": 177.32
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 4,
+    "unit_price": 70.36,
+    "amount": 281.44
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 3,
+    "unit_price": 59.16,
+    "amount": 177.48
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 533.02,
+    "amount": 1066.04
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 5,
+    "unit_price": 79.92,
+    "amount": 399.6
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 2,
+    "unit_price": 4.44,
+    "amount": 8.88
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 16,
+    "unit_price": 8.62,
+    "amount": 137.92
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 69.07,
+    "amount": 69.07
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 27,
+    "unit_price": 12.07,
+    "amount": 325.89
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 29,
+    "unit_price": 95.7,
+    "amount": 2775.3
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 3,
+    "unit_price": 17.8,
+    "amount": 53.4
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 7,
+    "unit_price": 17.44,
+    "amount": 122.08
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 5,
+    "unit_price": 130.88,
+    "amount": 654.4
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 6,
+    "unit_price": 158.99,
+    "amount": 953.94
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 843.04,
+    "amount": 1686.08
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 12,
+    "unit_price": 14.44,
+    "amount": 173.28
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 10,
+    "unit_price": 146.07,
+    "amount": 1460.7
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 1,
+    "unit_price": 66.46,
+    "amount": 66.46
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10094.pdf",
+  "invoice_no": "INV-2026-10094",
+  "vendor": "Kestrel Logistics",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-08-11",
+  "due_date": "2026-09-25",
+  "subtotal": 1014.44,
+  "tax": 152.17,
+  "total": 1165.61,
+  "check": [
+   "total_mismatch"
+  ],
+  "items": [
+   {
+    "description": "Catering, per head",
+    "qty": 9,
+    "unit_price": 19.43,
+    "amount": 174.87
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 70.04,
+    "amount": 420.24
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 19,
+    "unit_price": 22.07,
+    "amount": 419.33
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10095.pdf",
+  "invoice_no": "INV-2026-10095",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-07-04",
+  "due_date": "2026-08-03",
+  "subtotal": 7577.43,
+  "tax": 757.74,
+  "total": 8335.17,
+  "check": [],
+  "items": [
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 539.61,
+    "amount": 539.61
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 22,
+    "unit_price": 7.21,
+    "amount": 158.62
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 6,
+    "unit_price": 147.5,
+    "amount": 885.0
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 6,
+    "unit_price": 143.9,
+    "amount": 863.4
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 11,
+    "unit_price": 10.14,
+    "amount": 111.54
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 6,
+    "unit_price": 168.49,
+    "amount": 1010.94
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 5,
+    "unit_price": 109.66,
+    "amount": 548.3
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 4,
+    "unit_price": 149.84,
+    "amount": 599.36
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 5,
+    "unit_price": 7.64,
+    "amount": 38.2
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 802.0,
+    "amount": 1604.0
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 2,
+    "unit_price": 92.2,
+    "amount": 184.4
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 10,
+    "unit_price": 9.33,
+    "amount": 93.3
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 57.16,
+    "amount": 342.96
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 10,
+    "unit_price": 59.78,
+    "amount": 597.8
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10096.pdf",
+  "invoice_no": "INV-2026-10096",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-06-14",
+  "due_date": "2026-06-28",
+  "subtotal": 10597.33,
+  "tax": 1059.73,
+  "total": 11657.06,
+  "check": [],
+  "items": [
+   {
+    "description": "Graphic design, per hour",
+    "qty": 11,
+    "unit_price": 96.77,
+    "amount": 1064.47
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 33,
+    "unit_price": 19.77,
+    "amount": 652.41
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 18,
+    "unit_price": 89.75,
+    "amount": 1615.5
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 2,
+    "unit_price": 53.88,
+    "amount": 107.76
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 7,
+    "unit_price": 45.87,
+    "amount": 321.09
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 417.91,
+    "amount": 417.91
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 206.09,
+    "amount": 206.09
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 2,
+    "unit_price": 11.44,
+    "amount": 22.88
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 3,
+    "unit_price": 119.28,
+    "amount": 357.84
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 69,
+    "unit_price": 20.48,
+    "amount": 1413.12
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 21,
+    "unit_price": 5.49,
+    "amount": 115.29
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 11,
+    "unit_price": 132.39,
+    "amount": 1456.29
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 6,
+    "unit_price": 64.76,
+    "amount": 388.56
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 3,
+    "unit_price": 122.22,
+    "amount": 366.66
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 102,
+    "unit_price": 5.47,
+    "amount": 557.94
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 8,
+    "unit_price": 174.32,
+    "amount": 1394.56
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 9,
+    "unit_price": 14.22,
+    "amount": 127.98
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 2,
+    "unit_price": 5.49,
+    "amount": 10.98
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10097.pdf",
+  "invoice_no": "INV-2026-10097",
+  "vendor": "Nimbus Cloud Hosting",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-05-27",
+  "due_date": "2026-06-26",
+  "subtotal": 2929.28,
+  "tax": 439.39,
+  "total": 3368.67,
+  "check": [],
+  "items": [
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 1,
+    "unit_price": 8.9,
+    "amount": 8.9
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 17,
+    "unit_price": 9.49,
+    "amount": 161.33
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 6,
+    "unit_price": 11.46,
+    "amount": 68.76
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 89,
+    "unit_price": 4.37,
+    "amount": 388.93
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 2,
+    "unit_price": 233.72,
+    "amount": 467.44
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 4,
+    "unit_price": 160.5,
+    "amount": 642.0
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 8,
+    "unit_price": 75.1,
+    "amount": 600.8
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 6,
+    "unit_price": 98.52,
+    "amount": 591.12
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10098.pdf",
+  "invoice_no": "INV-2026-10098",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-04-05",
+  "due_date": "2026-05-20",
+  "subtotal": 2234.47,
+  "tax": 156.41,
+  "total": 2390.88,
+  "check": [],
+  "items": [
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 1,
+    "unit_price": 69.76,
+    "amount": 69.76
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 6,
+    "unit_price": 31.77,
+    "amount": 190.62
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 13,
+    "unit_price": 80.68,
+    "amount": 1048.84
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 15,
+    "unit_price": 8.4,
+    "amount": 126.0
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 1,
+    "unit_price": 104.01,
+    "amount": 104.01
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 4,
+    "unit_price": 26.7,
+    "amount": 106.8
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 294.22,
+    "amount": 588.44
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10099.pdf",
+  "invoice_no": "INV-2026-10099",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-07-16",
+  "due_date": "2026-08-30",
+  "subtotal": 4045.03,
+  "tax": 343.83,
+  "total": 4388.86,
+  "check": [],
+  "items": [
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 8,
+    "unit_price": 149.15,
+    "amount": 1193.2
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 7,
+    "unit_price": 88.36,
+    "amount": 618.52
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 58,
+    "unit_price": 14.92,
+    "amount": 865.36
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 764.04,
+    "amount": 764.04
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 69.07,
+    "amount": 69.07
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 5,
+    "unit_price": 5.28,
+    "amount": 26.4
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 22,
+    "unit_price": 13.87,
+    "amount": 305.14
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 1,
+    "unit_price": 203.3,
+    "amount": 203.3
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10100.pdf",
+  "invoice_no": "INV-2026-10100",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-14",
+  "subtotal": 4750.17,
+  "tax": 332.51,
+  "total": 5082.68,
+  "check": [],
+  "items": [
+   {
+    "description": "Black toner cartridge",
+    "qty": 3,
+    "unit_price": 70.29,
+    "amount": 210.87
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 4,
+    "unit_price": 119.01,
+    "amount": 476.04
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 7,
+    "unit_price": 32.11,
+    "amount": 224.77
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 4,
+    "unit_price": 79.61,
+    "amount": 318.44
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 31,
+    "unit_price": 113.55,
+    "amount": 3520.05
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10101.pdf",
+  "invoice_no": "INV-2026-10101",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "subtotal": 4094.1,
+  "tax": 348.0,
+  "total": 4442.1,
+  "check": [],
+  "items": [
+   {
+    "description": "Graphic design, per hour",
+    "qty": 8,
+    "unit_price": 73.17,
+    "amount": 585.36
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 7,
+    "unit_price": 41.1,
+    "amount": 287.7
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 24,
+    "unit_price": 134.21,
+    "amount": 3221.04
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10102.pdf",
+  "invoice_no": "INV-2026-10102",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-08-13",
+  "due_date": "2026-09-27",
+  "subtotal": 841.97,
+  "tax": 84.2,
+  "total": 926.17,
+  "check": [],
+  "items": [
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 9,
+    "unit_price": 5.47,
+    "amount": 49.23
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 17,
+    "unit_price": 9.38,
+    "amount": 159.46
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 3,
+    "unit_price": 36.15,
+    "amount": 108.45
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 3,
+    "unit_price": 11.78,
+    "amount": 35.34
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 29,
+    "unit_price": 11.42,
+    "amount": 331.18
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 2,
+    "unit_price": 73.05,
+    "amount": 146.1
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 3,
+    "unit_price": 4.07,
+    "amount": 12.21
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10103.pdf",
+  "invoice_no": "INV-2026-10103",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Cobalt Retail Group",
+  "invoice_date": "2026-05-05",
+  "due_date": "2026-06-19",
+  "subtotal": 15194.96,
+  "tax": 1519.5,
+  "total": 16714.46,
+  "check": [],
+  "items": [
+   {
+    "description": "Business cards, box of 250",
+    "qty": 2,
+    "unit_price": 34.84,
+    "amount": 69.68
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 4,
+    "unit_price": 264.98,
+    "amount": 1059.92
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 14,
+    "unit_price": 15.23,
+    "amount": 213.22
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 22,
+    "unit_price": 74.63,
+    "amount": 1641.86
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 9,
+    "unit_price": 38.67,
+    "amount": 348.03
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 12,
+    "unit_price": 21.23,
+    "amount": 254.76
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 407.37,
+    "amount": 814.74
+   },
+   {
+    "description": "Technical support, per hour",
+    "qty": 24,
+    "unit_price": 61.53,
+    "amount": 1476.72
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 1,
+    "unit_price": 229.41,
+    "amount": 229.41
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 305.5,
+    "amount": 305.5
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 220.34,
+    "amount": 440.68
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 9,
+    "unit_price": 19.13,
+    "amount": 172.17
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 4,
+    "unit_price": 83.81,
+    "amount": 335.24
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 3,
+    "unit_price": 236.48,
+    "amount": 709.44
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 52,
+    "unit_price": 18.85,
+    "amount": 980.2
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 7,
+    "unit_price": 31.1,
+    "amount": 217.7
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 13,
+    "unit_price": 9.47,
+    "amount": 123.11
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 103,
+    "unit_price": 5.72,
+    "amount": 589.16
+   },
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 16,
+    "unit_price": 4.92,
+    "amount": 78.72
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 7,
+    "unit_price": 81.02,
+    "amount": 567.14
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 11,
+    "unit_price": 43.93,
+    "amount": 483.23
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 79.47,
+    "amount": 79.47
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 3,
+    "unit_price": 236.03,
+    "amount": 708.09
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 18,
+    "unit_price": 42.45,
+    "amount": 764.1
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 3,
+    "unit_price": 663.29,
+    "amount": 1989.87
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 5,
+    "unit_price": 108.56,
+    "amount": 542.8
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10104.pdf",
+  "invoice_no": "INV-2026-10104",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-07-11",
+  "due_date": "2026-07-25",
+  "subtotal": 4480.51,
+  "tax": 448.05,
+  "total": 4928.56,
+  "check": [],
+  "items": [
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 408.08,
+    "amount": 816.16
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 79,
+    "unit_price": 20.61,
+    "amount": 1628.19
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 2,
+    "unit_price": 31.95,
+    "amount": 63.9
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 4,
+    "unit_price": 37.81,
+    "amount": 151.24
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 5,
+    "unit_price": 78.88,
+    "amount": 394.4
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 6,
+    "unit_price": 108.8,
+    "amount": 652.8
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 5,
+    "unit_price": 103.23,
+    "amount": 516.15
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 3,
+    "unit_price": 10.01,
+    "amount": 30.03
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 12,
+    "unit_price": 18.97,
+    "amount": 227.64
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10105.pdf",
+  "invoice_no": "INV-2026-10105",
+  "vendor": "Kestrel Logistics",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-04-18",
+  "due_date": "2026-05-02",
+  "subtotal": 5901.26,
+  "tax": 501.61,
+  "total": 6402.87,
+  "check": [],
+  "items": [
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 862.84,
+    "amount": 862.84
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 78.7,
+    "amount": 236.1
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 32,
+    "unit_price": 4.16,
+    "amount": 133.12
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 7,
+    "unit_price": 57.92,
+    "amount": 405.44
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 43,
+    "unit_price": 14.93,
+    "amount": 641.99
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 10,
+    "unit_price": 18.46,
+    "amount": 184.6
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 5,
+    "unit_price": 9.83,
+    "amount": 49.15
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 4,
+    "unit_price": 39.13,
+    "amount": 156.52
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 6,
+    "unit_price": 128.62,
+    "amount": 771.72
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 5,
+    "unit_price": 15.26,
+    "amount": 76.3
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 3,
+    "unit_price": 124.42,
+    "amount": 373.26
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 6,
+    "unit_price": 127.12,
+    "amount": 762.72
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 9,
+    "unit_price": 12.69,
+    "amount": 114.21
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 1,
+    "unit_price": 52.83,
+    "amount": 52.83
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 3,
+    "unit_price": 174.14,
+    "amount": 522.42
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 5,
+    "unit_price": 37.72,
+    "amount": 188.6
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 62.15,
+    "amount": 248.6
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 3,
+    "unit_price": 40.28,
+    "amount": 120.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10106.pdf",
+  "invoice_no": "INV-2026-10106",
+  "vendor": "Tandem Office Goods",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-08-18",
+  "due_date": "2026-09-17",
+  "subtotal": 5736.75,
+  "tax": 286.84,
+  "total": 6023.59,
+  "check": [],
+  "items": [
+   {
+    "description": "Packing materials, bundle",
+    "qty": 2,
+    "unit_price": 25.47,
+    "amount": 50.94
+   },
+   {
+    "description": "Safety gloves, pack of 10",
+    "qty": 12,
+    "unit_price": 12.83,
+    "amount": 153.96
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 460.07,
+    "amount": 920.14
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 6,
+    "unit_price": 61.45,
+    "amount": 368.7
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 5,
+    "unit_price": 110.27,
+    "amount": 551.35
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 3,
+    "unit_price": 25.0,
+    "amount": 75.0
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 2,
+    "unit_price": 123.48,
+    "amount": 246.96
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 13,
+    "unit_price": 38.28,
+    "amount": 497.64
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 64,
+    "unit_price": 7.71,
+    "amount": 493.44
+   },
+   {
+    "description": "Black toner cartridge",
+    "qty": 1,
+    "unit_price": 67.4,
+    "amount": 67.4
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 2,
+    "unit_price": 881.69,
+    "amount": 1763.38
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 107,
+    "unit_price": 5.12,
+    "amount": 547.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10107.pdf",
+  "invoice_no": "INV-2026-10107",
+  "vendor": "Kestrel Logistics",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-04-10",
+  "due_date": "2026-05-25",
+  "subtotal": 5980.9,
+  "tax": 598.09,
+  "total": 6578.99,
+  "check": [],
+  "items": [
+   {
+    "description": "Standard A4 paper, 500 sheets",
+    "qty": 15,
+    "unit_price": 5.16,
+    "amount": 77.4
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 18,
+    "unit_price": 10.05,
+    "amount": 180.9
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 2,
+    "unit_price": 520.96,
+    "amount": 1041.92
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 691.1,
+    "amount": 691.1
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 293.03,
+    "amount": 293.03
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 14,
+    "unit_price": 11.23,
+    "amount": 157.22
+   },
+   {
+    "description": "Training workshop, per day",
+    "qty": 1,
+    "unit_price": 920.09,
+    "amount": 920.09
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 12,
+    "unit_price": 48.23,
+    "amount": 578.76
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 3,
+    "unit_price": 212.89,
+    "amount": 638.67
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 108,
+    "unit_price": 6.83,
+    "amount": 737.64
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 105,
+    "unit_price": 5.48,
+    "amount": 575.4
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 11,
+    "unit_price": 8.07,
+    "amount": 88.77
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10108.pdf",
+  "invoice_no": "INV-2026-10108",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Willow Creek Dairy",
+  "invoice_date": "2026-04-21",
+  "due_date": "2026-06-05",
+  "subtotal": 1850.79,
+  "tax": 92.54,
+  "total": 1943.33,
+  "check": [],
+  "items": [
+   {
+    "description": "Business cards, box of 250",
+    "qty": 7,
+    "unit_price": 27.61,
+    "amount": 193.27
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 5,
+    "unit_price": 85.67,
+    "amount": 428.35
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 88,
+    "unit_price": 5.48,
+    "amount": 482.24
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 2,
+    "unit_price": 101.72,
+    "amount": 203.44
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 139,
+    "unit_price": 3.91,
+    "amount": 543.49
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10109.pdf",
+  "invoice_no": "INV-2026-10109",
+  "vendor": "Vertex Print Works",
+  "customer": "Riverton Community Council",
+  "invoice_date": "2026-04-23",
+  "due_date": "2026-06-07",
+  "subtotal": 11408.31,
+  "tax": 1711.25,
+  "total": 13119.56,
+  "check": [],
+  "items": [
+   {
+    "description": "Graphic design, per hour",
+    "qty": 23,
+    "unit_price": 86.68,
+    "amount": 1993.64
+   },
+   {
+    "description": "Packing materials, bundle",
+    "qty": 11,
+    "unit_price": 20.83,
+    "amount": 229.13
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 182.8,
+    "amount": 1096.8
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 1,
+    "unit_price": 30.83,
+    "amount": 30.83
+   },
+   {
+    "description": "Concrete mix, 25 kg bag",
+    "qty": 73,
+    "unit_price": 7.43,
+    "amount": 542.39
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 73.62,
+    "amount": 220.86
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 10,
+    "unit_price": 35.35,
+    "amount": 353.5
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 19,
+    "unit_price": 147.73,
+    "amount": 2806.87
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 30,
+    "unit_price": 13.24,
+    "amount": 397.2
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 7,
+    "unit_price": 117.87,
+    "amount": 825.09
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 32,
+    "unit_price": 3.57,
+    "amount": 114.24
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 2,
+    "unit_price": 303.36,
+    "amount": 606.72
+   },
+   {
+    "description": "Server rack rental, monthly",
+    "qty": 6,
+    "unit_price": 245.76,
+    "amount": 1474.56
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 8,
+    "unit_price": 89.56,
+    "amount": 716.48
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10110.pdf",
+  "invoice_no": "INV-2026-10110",
+  "vendor": "Kestrel Logistics",
+  "customer": "Summit Fitness Club",
+  "invoice_date": "2026-05-17",
+  "due_date": "2026-06-16",
+  "subtotal": 1963.71,
+  "tax": 98.19,
+  "total": 2061.9,
+  "check": [],
+  "items": [
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 8,
+    "unit_price": 30.99,
+    "amount": 247.92
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 1,
+    "unit_price": 9.9,
+    "amount": 9.9
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 8,
+    "unit_price": 73.08,
+    "amount": 584.64
+   },
+   {
+    "description": "Cat6 network cable, 10 m",
+    "qty": 28,
+    "unit_price": 7.16,
+    "amount": 200.48
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 1,
+    "unit_price": 108.77,
+    "amount": 108.77
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 10,
+    "unit_price": 43.82,
+    "amount": 438.2
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 12,
+    "unit_price": 31.15,
+    "amount": 373.8
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10111.pdf",
+  "invoice_no": "INV-2026-10111",
+  "vendor": "Maple & Finch Catering",
+  "customer": "Pinecrest Academy",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-06-21",
+  "subtotal": 7484.74,
+  "tax": 374.24,
+  "total": 7858.98,
+  "check": [],
+  "items": [
+   {
+    "description": "Technical support, per hour",
+    "qty": 13,
+    "unit_price": 86.78,
+    "amount": 1128.14
+   },
+   {
+    "description": "Business cards, box of 250",
+    "qty": 7,
+    "unit_price": 26.46,
+    "amount": 185.22
+   },
+   {
+    "description": "Venue hire, half day",
+    "qty": 1,
+    "unit_price": 500.37,
+    "amount": 500.37
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 4,
+    "unit_price": 10.1,
+    "amount": 40.4
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 235.99,
+    "amount": 471.98
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 4,
+    "unit_price": 10.04,
+    "amount": 40.16
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 8,
+    "unit_price": 14.19,
+    "amount": 113.52
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 21,
+    "unit_price": 165.48,
+    "amount": 3475.08
+   },
+   {
+    "description": "Coffee beans, 1 kg",
+    "qty": 3,
+    "unit_price": 17.3,
+    "amount": 51.9
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 2,
+    "unit_price": 14.66,
+    "amount": 29.32
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 3,
+    "unit_price": 74.42,
+    "amount": 223.26
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 39,
+    "unit_price": 20.15,
+    "amount": 785.85
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 2,
+    "unit_price": 28.85,
+    "amount": 57.7
+   },
+   {
+    "description": "Photography session, per hour",
+    "qty": 3,
+    "unit_price": 127.28,
+    "amount": 381.84
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10112.pdf",
+  "invoice_no": "INV-2026-10112",
+  "vendor": "Nimbus Cloud Hosting",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-04-06",
+  "due_date": "2026-04-20",
+  "subtotal": 666.96,
+  "tax": 46.69,
+  "total": 713.65,
+  "check": [],
+  "items": [
+   {
+    "description": "Courier parcel, next day",
+    "qty": 13,
+    "unit_price": 15.65,
+    "amount": 203.45
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 1,
+    "unit_price": 78.1,
+    "amount": 78.1
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 29,
+    "unit_price": 13.29,
+    "amount": 385.41
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10113.pdf",
+  "invoice_no": "INV-2026-10113",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-03-29",
+  "due_date": "2026-04-28",
+  "subtotal": 4866.51,
+  "tax": 340.66,
+  "total": 5207.17,
+  "check": [],
+  "items": [
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 9,
+    "unit_price": 31.24,
+    "amount": 281.16
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 39,
+    "unit_price": 95.69,
+    "amount": 3731.91
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 1,
+    "unit_price": 67.97,
+    "amount": 67.97
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 7,
+    "unit_price": 38.69,
+    "amount": 270.83
+   },
+   {
+    "description": "USB-C docking station",
+    "qty": 4,
+    "unit_price": 128.66,
+    "amount": 514.64
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10114.pdf",
+  "invoice_no": "INV-2026-10114",
+  "vendor": "Brightwave Studio Ltd.",
+  "customer": "Ember & Oak Restaurant",
+  "invoice_date": "2026-06-20",
+  "due_date": "2026-07-20",
+  "subtotal": 832.8,
+  "tax": 83.28,
+  "total": 916.08,
+  "check": [],
+  "items": [
+   {
+    "description": "Photography session, per hour",
+    "qty": 3,
+    "unit_price": 100.06,
+    "amount": 300.18
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 2,
+    "unit_price": 41.94,
+    "amount": 83.88
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 2,
+    "unit_price": 224.37,
+    "amount": 448.74
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10115.pdf",
+  "invoice_no": "INV-2026-10115",
+  "vendor": "Kestrel Logistics",
+  "customer": "Granite Peak Outfitters",
+  "invoice_date": "2026-08-10",
+  "due_date": "2026-09-09",
+  "subtotal": 5716.98,
+  "tax": 400.19,
+  "total": 6117.17,
+  "check": [],
+  "items": [
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 78.25,
+    "amount": 234.75
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 5,
+    "unit_price": 49.56,
+    "amount": 247.8
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 5,
+    "unit_price": 163.8,
+    "amount": 819.0
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 9,
+    "unit_price": 29.32,
+    "amount": 263.88
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 1,
+    "unit_price": 31.14,
+    "amount": 31.14
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 220.5,
+    "amount": 441.0
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 23,
+    "unit_price": 154.91,
+    "amount": 3562.93
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 13,
+    "unit_price": 8.96,
+    "amount": 116.48
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10116.pdf",
+  "invoice_no": "INV-2026-10116",
+  "vendor": "Cedar & Stone Builders",
+  "customer": "Aurora Dental Clinic",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-04-22",
+  "subtotal": 2381.64,
+  "tax": 202.44,
+  "total": 2584.08,
+  "check": [],
+  "items": [
+   {
+    "description": "27-inch monitor",
+    "qty": 1,
+    "unit_price": 238.73,
+    "amount": 238.73
+   },
+   {
+    "description": "Software licence, annual",
+    "qty": 8,
+    "unit_price": 127.9,
+    "amount": 1023.2
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 12,
+    "unit_price": 29.32,
+    "amount": 351.84
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 2,
+    "unit_price": 130.76,
+    "amount": 261.52
+   },
+   {
+    "description": "Wireless keyboard and mouse set",
+    "qty": 1,
+    "unit_price": 32.67,
+    "amount": 32.67
+   },
+   {
+    "description": "Website maintenance, monthly",
+    "qty": 2,
+    "unit_price": 236.84,
+    "amount": 473.68
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10117.pdf",
+  "invoice_no": "INV-2026-10117",
+  "vendor": "Lumen Cleaning Services",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-02-05",
+  "subtotal": 1169.15,
+  "tax": 175.37,
+  "total": 1344.52,
+  "check": [],
+  "items": [
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 13,
+    "unit_price": 9.24,
+    "amount": 120.12
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 11,
+    "unit_price": 22.83,
+    "amount": 251.13
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 50,
+    "unit_price": 11.55,
+    "amount": 577.5
+   },
+   {
+    "description": "Cloud hosting, standard plan",
+    "qty": 4,
+    "unit_price": 55.1,
+    "amount": 220.4
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10118.pdf",
+  "invoice_no": "INV-2026-10118",
+  "vendor": "Orbit IT Support",
+  "customer": "Blue Heron Hotels",
+  "invoice_date": "2026-05-06",
+  "due_date": "2026-06-05",
+  "subtotal": 7354.79,
+  "tax": 735.48,
+  "total": 8090.27,
+  "check": [],
+  "items": [
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 2,
+    "unit_price": 161.08,
+    "amount": 322.16
+   },
+   {
+    "description": "Standing desk, 140 cm",
+    "qty": 1,
+    "unit_price": 393.7,
+    "amount": 393.7
+   },
+   {
+    "description": "Ergonomic office chair",
+    "qty": 2,
+    "unit_price": 220.12,
+    "amount": 440.24
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 11,
+    "unit_price": 11.09,
+    "amount": 121.99
+   },
+   {
+    "description": "Courier parcel, next day",
+    "qty": 38,
+    "unit_price": 11.66,
+    "amount": 443.08
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 22,
+    "unit_price": 92.71,
+    "amount": 2039.62
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 5,
+    "unit_price": 76.3,
+    "amount": 381.5
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 1,
+    "unit_price": 97.58,
+    "amount": 97.58
+   },
+   {
+    "description": "Consulting services, per hour",
+    "qty": 28,
+    "unit_price": 95.41,
+    "amount": 2671.48
+   },
+   {
+    "description": "Hand sanitiser, 5 L",
+    "qty": 5,
+    "unit_price": 28.62,
+    "amount": 143.1
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 2,
+    "unit_price": 27.19,
+    "amount": 54.38
+   },
+   {
+    "description": "Window cleaning, per visit",
+    "qty": 4,
+    "unit_price": 61.49,
+    "amount": 245.96
+   }
+  ]
+ },
+ {
+  "file": "INV-2026-10119.pdf",
+  "invoice_no": "INV-2026-10119",
+  "vendor": "Harborline Supply Co.",
+  "customer": "Quartz Analytics LLC",
+  "invoice_date": "2026-04-09",
+  "due_date": "2026-05-09",
+  "subtotal": 7887.19,
+  "tax": 1183.08,
+  "total": 9070.27,
+  "check": [],
+  "items": [
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 26,
+    "unit_price": 12.77,
+    "amount": 332.02
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 7,
+    "unit_price": 141.75,
+    "amount": 992.25
+   },
+   {
+    "description": "Whiteboard markers, box of 12",
+    "qty": 4,
+    "unit_price": 10.83,
+    "amount": 43.32
+   },
+   {
+    "description": "Pallet delivery, regional",
+    "qty": 10,
+    "unit_price": 169.63,
+    "amount": 1696.3
+   },
+   {
+    "description": "Timber battens, 3 m",
+    "qty": 79,
+    "unit_price": 3.49,
+    "amount": 275.71
+   },
+   {
+    "description": "Graphic design, per hour",
+    "qty": 20,
+    "unit_price": 68.52,
+    "amount": 1370.4
+   },
+   {
+    "description": "27-inch monitor",
+    "qty": 4,
+    "unit_price": 217.74,
+    "amount": 870.96
+   },
+   {
+    "description": "Print run, 500 flyers",
+    "qty": 4,
+    "unit_price": 77.21,
+    "amount": 308.84
+   },
+   {
+    "description": "Filter cartridges, pack of 4",
+    "qty": 4,
+    "unit_price": 27.38,
+    "amount": 109.52
+   },
+   {
+    "description": "Hi-vis jackets, size L",
+    "qty": 28,
+    "unit_price": 12.02,
+    "amount": 336.56
+   },
+   {
+    "description": "Colour toner cartridge",
+    "qty": 3,
+    "unit_price": 77.27,
+    "amount": 231.81
+   },
+   {
+    "description": "Catering, per head",
+    "qty": 24,
+    "unit_price": 20.91,
+    "amount": 501.84
+   },
+   {
+    "description": "Paint, 10 L white",
+    "qty": 14,
+    "unit_price": 42.35,
+    "amount": 592.9
+   },
+   {
+    "description": "Deep cleaning, per visit",
+    "qty": 2,
+    "unit_price": 112.38,
+    "amount": 224.76
+   }
+  ]
+ }
+]

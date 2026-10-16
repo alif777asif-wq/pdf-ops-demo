@@ -1,0 +1,15 @@
+04:57:00 [INFO] Generated 120 invoices (3 layouts) and 12 statements: 177 pages
+04:57:03 [INFO] Invoices: 120 PDFs, 126 pages, 1,055 line items in 2.9s
+04:57:03 [INFO] Invoice accuracy: header fields 1,080/1,080, line-item cells 4,220/4,220
+04:57:03 [WARN] Arithmetic check flagged 3 invoices; 3/3 injected errors caught, 0 false alarms
+04:57:09 [INFO] Statements: 12 PDFs, 51 pages, 1,671 table rows in 5.8s, cell accuracy 10,026/10,026
+04:57:09 [WARN] Balance check: 2/2 injected balance errors flagged, 0 false alarms, 10/12 statements fully reconciled
+04:58:42 [INFO] OCR: 20 scanned pages (no text layer) -> searchable PDFs in 92s, mean character error 4.2%
+04:58:42 [INFO] OCR extraction: header fields 170/180, line-item cells 556/596; invoice number searchable in 17/20 PDFs
+04:58:45 [INFO] Compress: 8.9 MB -> 1.6 MB (82.6% smaller), text search still works in 17/17
+04:59:18 [INFO] Converted 14 PDFs to DOCX / TXT / HTML / PNG; content check passed DOCX 14/14, TXT 14/14, HTML 14/14, PNG 14/14
+04:59:18 [INFO] Merge: 120 PDFs -> 1 PDF of 126 pages; split back into 126 single-page files
+04:59:18 [INFO] Watermark: stamped 21/21 pages, original text still selectable
+04:59:23 [INFO] Redaction: 63 account numbers and names removed from 12 statements; 0 matches remain, other content intact in 12/12
+04:59:23 [INFO] Password protect: AES-256 encrypted=True, wrong password rejected=True, unlock with correct password works=True
+04:59:23 [INFO] Done: 152 PDFs, 197 pages in 143s

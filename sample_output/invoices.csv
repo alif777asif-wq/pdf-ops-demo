@@ -1,0 +1,121 @@
+invoice_no,vendor,customer,invoice_date,due_date,items,subtotal,tax,total,check
+INV-2026-10000,Vertex Print Works,Pinecrest Academy,2026-05-08,2026-05-22,3,535.7,45.53,581.23,OK
+INV-2026-10001,Lumen Cleaning Services,Cobalt Retail Group,2026-06-14,2026-07-14,18,9947.64,994.76,10942.4,OK
+INV-2026-10002,Vertex Print Works,Granite Peak Outfitters,2026-03-05,2026-04-04,6,3589.18,251.24,3840.42,OK
+INV-2026-10003,Maple & Finch Catering,Willow Creek Dairy,2026-05-29,2026-06-12,7,3412.28,170.61,3573.89,total_mismatch
+INV-2026-10004,Lumen Cleaning Services,Blue Heron Hotels,2026-02-25,2026-03-27,8,4821.83,0.0,4821.83,OK
+INV-2026-10005,Harborline Supply Co.,Aurora Dental Clinic,2026-01-05,2026-02-04,22,14837.38,1038.62,15876.0,OK
+INV-2026-10006,Vertex Print Works,Aurora Dental Clinic,2026-03-23,2026-05-07,18,9235.59,923.56,10159.15,OK
+INV-2026-10007,Harborline Supply Co.,Riverton Community Council,2026-03-16,2026-04-15,12,4331.95,216.6,4548.55,OK
+INV-2026-10008,Lumen Cleaning Services,Riverton Community Council,2026-07-30,2026-08-29,7,5895.3,501.1,6396.4,OK
+INV-2026-10009,Maple & Finch Catering,Ember & Oak Restaurant,2026-05-17,2026-06-16,7,4710.19,400.37,5110.56,OK
+INV-2026-10010,Cedar & Stone Builders,Blue Heron Hotels,2026-03-02,2026-03-16,9,6053.23,605.32,6658.55,OK
+INV-2026-10011,Harborline Supply Co.,Pinecrest Academy,2026-01-23,2026-02-06,3,2358.54,0.0,2358.54,OK
+INV-2026-10012,Cedar & Stone Builders,Blue Heron Hotels,2026-06-11,2026-07-26,3,914.38,77.72,992.1,OK
+INV-2026-10013,Maple & Finch Catering,Ember & Oak Restaurant,2026-07-19,2026-09-02,3,1171.16,0.0,1171.16,OK
+INV-2026-10014,Tandem Office Goods,Granite Peak Outfitters,2026-04-08,2026-04-22,4,3302.27,231.16,3533.43,OK
+INV-2026-10015,Lumen Cleaning Services,Aurora Dental Clinic,2026-07-23,2026-08-22,6,2632.6,394.89,3027.49,OK
+INV-2026-10016,Orbit IT Support,Pinecrest Academy,2026-02-27,2026-03-29,6,1268.88,63.44,1332.32,OK
+INV-2026-10017,Cedar & Stone Builders,Cobalt Retail Group,2026-06-09,2026-07-24,12,7842.86,549.0,8391.86,OK
+INV-2026-10018,Kestrel Logistics,Cobalt Retail Group,2026-09-21,2026-10-21,6,2984.84,208.94,3193.78,OK
+INV-2026-10019,Lumen Cleaning Services,Summit Fitness Club,2026-03-03,2026-04-17,3,1197.61,119.76,1317.37,OK
+INV-2026-10020,Maple & Finch Catering,Riverton Community Council,2026-08-24,2026-09-23,26,11218.72,953.59,12172.31,OK
+INV-2026-10021,Lumen Cleaning Services,Pinecrest Academy,2026-04-25,2026-05-09,8,2751.58,275.16,3026.74,OK
+INV-2026-10022,Maple & Finch Catering,Quartz Analytics LLC,2026-10-02,2026-11-01,3,1337.45,0.0,1337.45,OK
+INV-2026-10023,Maple & Finch Catering,Aurora Dental Clinic,2026-03-11,2026-04-25,4,2001.43,300.21,2301.64,OK
+INV-2026-10024,Cedar & Stone Builders,Quartz Analytics LLC,2026-02-15,2026-03-17,9,4926.92,739.04,5665.96,OK
+INV-2026-10025,Lumen Cleaning Services,Ember & Oak Restaurant,2026-04-14,2026-04-28,4,616.99,30.85,647.84,OK
+INV-2026-10026,Maple & Finch Catering,Willow Creek Dairy,2026-08-19,2026-09-02,12,5635.43,394.48,6029.91,OK
+INV-2026-10027,Harborline Supply Co.,Aurora Dental Clinic,2026-01-20,2026-03-06,5,1269.65,190.45,1460.1,OK
+INV-2026-10028,Maple & Finch Catering,Quartz Analytics LLC,2026-06-16,2026-07-16,4,2250.68,337.6,2588.28,OK
+INV-2026-10029,Harborline Supply Co.,Granite Peak Outfitters,2026-08-21,2026-09-04,14,8837.43,751.18,9588.61,OK
+INV-2026-10030,Kestrel Logistics,Quartz Analytics LLC,2026-04-11,2026-05-11,5,2483.01,173.81,2656.82,OK
+INV-2026-10031,Lumen Cleaning Services,Willow Creek Dairy,2026-06-04,2026-06-18,4,2540.87,177.86,2718.73,OK
+INV-2026-10032,Harborline Supply Co.,Summit Fitness Club,2026-07-26,2026-09-09,10,3533.97,300.39,3834.36,OK
+INV-2026-10033,Kestrel Logistics,Blue Heron Hotels,2026-01-08,2026-02-07,5,3597.84,305.82,3903.66,OK
+INV-2026-10034,Lumen Cleaning Services,Aurora Dental Clinic,2026-06-19,2026-07-03,18,7499.59,1124.94,8624.53,OK
+INV-2026-10035,Nimbus Cloud Hosting,Riverton Community Council,2026-01-25,2026-02-08,8,4366.65,371.17,4737.82,OK
+INV-2026-10036,Kestrel Logistics,Aurora Dental Clinic,2026-09-21,2026-10-05,10,8193.53,819.35,9012.88,OK
+INV-2026-10037,Vertex Print Works,Cobalt Retail Group,2026-01-29,2026-03-15,3,2121.63,148.51,2270.14,OK
+INV-2026-10038,Orbit IT Support,Blue Heron Hotels,2026-06-14,2026-07-29,7,2084.86,208.49,2293.35,OK
+INV-2026-10039,Harborline Supply Co.,Summit Fitness Club,2026-09-05,2026-09-19,7,3595.26,251.67,3846.93,OK
+INV-2026-10040,Harborline Supply Co.,Summit Fitness Club,2026-02-27,2026-03-13,9,3958.76,197.94,4156.7,OK
+INV-2026-10041,Cedar & Stone Builders,Summit Fitness Club,2026-02-27,2026-03-29,7,3456.25,293.78,3750.03,OK
+INV-2026-10042,Harborline Supply Co.,Aurora Dental Clinic,2026-07-18,2026-09-01,7,2771.76,194.02,2965.78,OK
+INV-2026-10043,Cedar & Stone Builders,Riverton Community Council,2026-03-18,2026-05-02,6,4540.55,227.03,4767.58,OK
+INV-2026-10044,Harborline Supply Co.,Cobalt Retail Group,2026-04-19,2026-05-19,7,2256.66,0.0,2256.66,OK
+INV-2026-10045,Vertex Print Works,Quartz Analytics LLC,2026-07-01,2026-07-31,5,1424.78,142.48,1567.26,OK
+INV-2026-10046,Harborline Supply Co.,Blue Heron Hotels,2026-03-30,2026-04-13,9,9651.43,1447.71,11099.14,OK
+INV-2026-10047,Brightwave Studio Ltd.,Riverton Community Council,2026-05-21,2026-06-20,14,9674.89,483.74,10158.63,OK
+INV-2026-10048,Nimbus Cloud Hosting,Pinecrest Academy,2026-06-05,2026-07-05,10,1822.1,273.32,2095.42,OK
+INV-2026-10049,Kestrel Logistics,Willow Creek Dairy,2026-06-21,2026-07-05,10,7492.86,374.64,7867.5,OK
+INV-2026-10050,Orbit IT Support,Aurora Dental Clinic,2026-08-03,2026-09-17,4,3325.85,232.81,3558.66,OK
+INV-2026-10051,Maple & Finch Catering,Pinecrest Academy,2026-08-08,2026-09-22,3,1767.5,0.0,1767.5,OK
+INV-2026-10052,Vertex Print Works,Granite Peak Outfitters,2026-03-20,2026-04-19,5,1116.1,167.42,1283.52,OK
+INV-2026-10053,Lumen Cleaning Services,Riverton Community Council,2026-09-10,2026-10-10,6,3677.06,257.39,3934.45,OK
+INV-2026-10054,Brightwave Studio Ltd.,Ember & Oak Restaurant,2026-03-31,2026-05-15,7,2764.4,138.22,2902.62,OK
+INV-2026-10055,Nimbus Cloud Hosting,Aurora Dental Clinic,2026-06-23,2026-07-07,14,8164.37,0.0,8164.37,OK
+INV-2026-10056,Orbit IT Support,Riverton Community Council,2026-01-25,2026-02-24,12,9573.47,1436.02,11009.49,OK
+INV-2026-10057,Cedar & Stone Builders,Quartz Analytics LLC,2026-01-11,2026-02-10,8,4834.53,410.94,5245.47,OK
+INV-2026-10058,Tandem Office Goods,Blue Heron Hotels,2026-03-23,2026-05-07,9,2338.24,198.75,2536.99,OK
+INV-2026-10059,Lumen Cleaning Services,Cobalt Retail Group,2026-01-30,2026-03-01,3,1924.2,288.63,2212.83,OK
+INV-2026-10060,Kestrel Logistics,Aurora Dental Clinic,2026-03-31,2026-04-14,6,5016.28,752.44,5768.72,OK
+INV-2026-10061,Vertex Print Works,Pinecrest Academy,2026-09-17,2026-10-17,12,7157.67,715.77,7873.44,OK
+INV-2026-10062,Brightwave Studio Ltd.,Blue Heron Hotels,2026-04-23,2026-05-07,8,5273.55,527.36,5800.91,OK
+INV-2026-10063,Kestrel Logistics,Willow Creek Dairy,2026-05-28,2026-06-27,8,4013.44,280.94,4294.38,OK
+INV-2026-10064,Orbit IT Support,Granite Peak Outfitters,2026-07-15,2026-08-14,18,10753.8,752.77,11506.57,OK
+INV-2026-10065,Kestrel Logistics,Riverton Community Council,2026-03-17,2026-04-16,4,730.98,51.17,782.15,OK
+INV-2026-10066,Lumen Cleaning Services,Cobalt Retail Group,2026-04-18,2026-05-18,12,7549.55,528.47,8078.02,OK
+INV-2026-10067,Tandem Office Goods,Summit Fitness Club,2026-08-19,2026-09-02,4,1534.98,107.45,1642.43,OK
+INV-2026-10068,Tandem Office Goods,Pinecrest Academy,2026-09-28,2026-10-28,8,6354.62,0.0,6354.62,OK
+INV-2026-10069,Harborline Supply Co.,Blue Heron Hotels,2026-06-13,2026-07-13,14,5676.53,283.83,5960.36,OK
+INV-2026-10070,Harborline Supply Co.,Cobalt Retail Group,2026-03-16,2026-04-30,6,3871.48,0.0,3871.48,OK
+INV-2026-10071,Maple & Finch Catering,Summit Fitness Club,2026-03-21,2026-05-05,7,4777.49,0.0,4777.49,OK
+INV-2026-10072,Maple & Finch Catering,Quartz Analytics LLC,2026-03-21,2026-04-20,14,7377.9,627.12,8005.02,OK
+INV-2026-10073,Cedar & Stone Builders,Pinecrest Academy,2026-03-02,2026-04-01,26,14374.7,1006.23,15380.93,OK
+INV-2026-10074,Orbit IT Support,Willow Creek Dairy,2026-09-16,2026-10-16,10,4485.46,313.98,4799.44,OK
+INV-2026-10075,Tandem Office Goods,Blue Heron Hotels,2026-06-13,2026-07-28,10,3939.03,275.73,4214.76,OK
+INV-2026-10076,Brightwave Studio Ltd.,Willow Creek Dairy,2026-04-15,2026-04-29,9,3904.53,0.0,3904.53,OK
+INV-2026-10077,Cedar & Stone Builders,Granite Peak Outfitters,2026-08-13,2026-08-27,5,1221.78,103.85,1325.63,OK
+INV-2026-10078,Harborline Supply Co.,Granite Peak Outfitters,2026-01-27,2026-02-10,7,1852.74,92.64,1945.38,OK
+INV-2026-10079,Kestrel Logistics,Ember & Oak Restaurant,2026-04-28,2026-05-28,3,2601.6,390.24,2991.84,OK
+INV-2026-10080,Lumen Cleaning Services,Riverton Community Council,2026-07-21,2026-08-20,3,1482.57,0.0,1482.57,OK
+INV-2026-10081,Brightwave Studio Ltd.,Aurora Dental Clinic,2026-02-21,2026-03-07,4,1756.66,87.83,1844.49,OK
+INV-2026-10082,Cedar & Stone Builders,Pinecrest Academy,2026-03-10,2026-03-24,8,7247.81,724.78,7972.59,OK
+INV-2026-10083,Cedar & Stone Builders,Aurora Dental Clinic,2026-07-06,2026-08-05,8,2350.85,352.63,2703.48,OK
+INV-2026-10084,Kestrel Logistics,Willow Creek Dairy,2026-01-25,2026-03-11,8,6598.3,461.88,7060.18,OK
+INV-2026-10085,Kestrel Logistics,Granite Peak Outfitters,2026-03-15,2026-04-29,18,12563.18,1884.48,14447.66,OK
+INV-2026-10086,Orbit IT Support,Riverton Community Council,2026-03-06,2026-04-20,4,1083.12,75.82,1158.94,OK
+INV-2026-10087,Kestrel Logistics,Pinecrest Academy,2026-08-15,2026-09-14,10,8120.51,1218.08,9338.59,OK
+INV-2026-10088,Cedar & Stone Builders,Ember & Oak Restaurant,2026-03-20,2026-04-19,3,1700.4,0.0,1700.4,OK
+INV-2026-10089,Kestrel Logistics,Blue Heron Hotels,2026-09-26,2026-10-26,22,11963.54,0.0,11963.54,OK
+INV-2026-10090,Cedar & Stone Builders,Pinecrest Academy,2026-06-29,2026-08-13,3,2022.91,303.44,2326.35,OK
+INV-2026-10091,Harborline Supply Co.,Summit Fitness Club,2026-04-18,2026-06-02,4,1325.85,66.29,1392.14,OK
+INV-2026-10092,Brightwave Studio Ltd.,Summit Fitness Club,2026-07-05,2026-07-19,22,8900.92,0.0,8891.92,total_mismatch
+INV-2026-10093,Orbit IT Support,Cobalt Retail Group,2026-03-20,2026-05-04,18,10589.28,1058.93,11648.21,OK
+INV-2026-10094,Kestrel Logistics,Willow Creek Dairy,2026-08-11,2026-09-25,3,1014.44,152.17,1165.61,total_mismatch
+INV-2026-10095,Brightwave Studio Ltd.,Ember & Oak Restaurant,2026-07-04,2026-08-03,14,7577.43,757.74,8335.17,OK
+INV-2026-10096,Lumen Cleaning Services,Aurora Dental Clinic,2026-06-14,2026-06-28,18,10597.33,1059.73,11657.06,OK
+INV-2026-10097,Nimbus Cloud Hosting,Ember & Oak Restaurant,2026-05-27,2026-06-26,8,2929.28,439.39,3368.67,OK
+INV-2026-10098,Cedar & Stone Builders,Willow Creek Dairy,2026-04-05,2026-05-20,7,2234.47,156.41,2390.88,OK
+INV-2026-10099,Cedar & Stone Builders,Cobalt Retail Group,2026-07-16,2026-08-30,8,4045.03,343.83,4388.86,OK
+INV-2026-10100,Maple & Finch Catering,Cobalt Retail Group,2026-03-15,2026-04-14,5,4750.17,332.51,5082.68,OK
+INV-2026-10101,Brightwave Studio Ltd.,Ember & Oak Restaurant,2026-03-17,2026-04-16,3,4094.1,348.0,4442.1,OK
+INV-2026-10102,Harborline Supply Co.,Aurora Dental Clinic,2026-08-13,2026-09-27,7,841.97,84.2,926.17,OK
+INV-2026-10103,Harborline Supply Co.,Cobalt Retail Group,2026-05-05,2026-06-19,26,15194.96,1519.5,16714.46,OK
+INV-2026-10104,Lumen Cleaning Services,Ember & Oak Restaurant,2026-07-11,2026-07-25,9,4480.51,448.05,4928.56,OK
+INV-2026-10105,Kestrel Logistics,Pinecrest Academy,2026-04-18,2026-05-02,18,5901.26,501.61,6402.87,OK
+INV-2026-10106,Tandem Office Goods,Granite Peak Outfitters,2026-08-18,2026-09-17,12,5736.75,286.84,6023.59,OK
+INV-2026-10107,Kestrel Logistics,Blue Heron Hotels,2026-04-10,2026-05-25,12,5980.9,598.09,6578.99,OK
+INV-2026-10108,Cedar & Stone Builders,Willow Creek Dairy,2026-04-21,2026-06-05,5,1850.79,92.54,1943.33,OK
+INV-2026-10109,Vertex Print Works,Riverton Community Council,2026-04-23,2026-06-07,14,11408.31,1711.25,13119.56,OK
+INV-2026-10110,Kestrel Logistics,Summit Fitness Club,2026-05-17,2026-06-16,7,1963.71,98.19,2061.9,OK
+INV-2026-10111,Maple & Finch Catering,Pinecrest Academy,2026-06-07,2026-06-21,14,7484.74,374.24,7858.98,OK
+INV-2026-10112,Nimbus Cloud Hosting,Aurora Dental Clinic,2026-04-06,2026-04-20,3,666.96,46.69,713.65,OK
+INV-2026-10113,Brightwave Studio Ltd.,Blue Heron Hotels,2026-03-29,2026-04-28,5,4866.51,340.66,5207.17,OK
+INV-2026-10114,Brightwave Studio Ltd.,Ember & Oak Restaurant,2026-06-20,2026-07-20,3,832.8,83.28,916.08,OK
+INV-2026-10115,Kestrel Logistics,Granite Peak Outfitters,2026-08-10,2026-09-09,8,5716.98,400.19,6117.17,OK
+INV-2026-10116,Cedar & Stone Builders,Aurora Dental Clinic,2026-04-08,2026-04-22,6,2381.64,202.44,2584.08,OK
+INV-2026-10117,Lumen Cleaning Services,Quartz Analytics LLC,2026-01-06,2026-02-05,4,1169.15,175.37,1344.52,OK
+INV-2026-10118,Orbit IT Support,Blue Heron Hotels,2026-05-06,2026-06-05,12,7354.79,735.48,8090.27,OK
+INV-2026-10119,Harborline Supply Co.,Quartz Analytics LLC,2026-04-09,2026-05-09,14,7887.19,1183.08,9070.27,OK

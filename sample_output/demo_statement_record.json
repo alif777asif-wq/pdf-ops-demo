@@ -1,0 +1,116 @@
+{
+ "name": "ST-001.pdf",
+ "account_no": "1385 4620 9401",
+ "summary": {
+  "opening_c": 582114,
+  "total_debits_c": 1793722,
+  "total_credits_c": 5167090,
+  "closing_c": 3955482
+ },
+ "pages": 4,
+ "row_count": 145,
+ "table_bbox_pt": [
+  40.0,
+  170.0,
+  572.0,
+  602.0
+ ],
+ "rows": [
+  {
+   "date": "2026-02-10",
+   "desc": "ATM withdrawal - High Street",
+   "ref": "TX9383225",
+   "debit_c": 59317,
+   "credit_c": 0,
+   "balance_c": 522797
+  },
+  {
+   "date": "2026-02-11",
+   "desc": "Interest paid",
+   "ref": "TX9844836",
+   "debit_c": 0,
+   "credit_c": 68421,
+   "balance_c": 591218
+  },
+  {
+   "date": "2026-02-11",
+   "desc": "Card purchase - Corner Bakery",
+   "ref": "TX5207929",
+   "debit_c": 3172,
+   "credit_c": 0,
+   "balance_c": 588046
+  },
+  {
+   "date": "2026-02-12",
+   "desc": "Direct debit - Skyline Broadband",
+   "ref": "TX5250360",
+   "debit_c": 44654,
+   "credit_c": 0,
+   "balance_c": 543392
+  },
+  {
+   "date": "2026-02-13",
+   "desc": "ATM withdrawal - High Street",
+   "ref": "TX7070356",
+   "debit_c": 30104,
+   "credit_c": 0,
+   "balance_c": 513288
+  },
+  {
+   "date": "2026-02-14",
+   "desc": "Card purchase - Corner Bakery",
+   "ref": "TX9276882",
+   "debit_c": 6458,
+   "credit_c": 0,
+   "balance_c": 506830
+  },
+  {
+   "date": "2026-02-15",
+   "desc": "Online payment - Insurance premium",
+   "ref": "TX7327923",
+   "debit_c": 594,
+   "credit_c": 0,
+   "balance_c": 506236
+  },
+  {
+   "date": "2026-02-16",
+   "desc": "Card purchase - Lantern Books",
+   "ref": "TX8698675",
+   "debit_c": 8696,
+   "credit_c": 0,
+   "balance_c": 497540
+  },
+  {
+   "date": "2026-02-16",
+   "desc": "Refund - Orchard Grocers",
+   "ref": "TX3424748",
+   "debit_c": 0,
+   "credit_c": 65238,
+   "balance_c": 562778
+  },
+  {
+   "date": "2026-02-16",
+   "desc": "Direct debit - Skyline Broadband",
+   "ref": "TX5712242",
+   "debit_c": 4058,
+   "credit_c": 0,
+   "balance_c": 558720
+  },
+  {
+   "date": "2026-02-16",
+   "desc": "Direct debit - Beacon Energy",
+   "ref": "TX7383496",
+   "debit_c": 28571,
+   "credit_c": 0,
+   "balance_c": 530149
+  },
+  {
+   "date": "2026-02-17",
+   "desc": "Transfer in - Savings",
+   "ref": "TX9317502",
+   "debit_c": 0,
+   "credit_c": 295479,
+   "balance_c": 825628
+  }
+ ]
+}
