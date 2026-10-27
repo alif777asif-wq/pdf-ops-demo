@@ -31,6 +31,9 @@ client work, and no real documents were used.
 | Scans, line-item cells | 556 / 596 correct (93.29%) |
 | Scans, invoice number findable by text search | 17 / 20 |
 | Compression of the searchable scans | 8.9 MB to 1.6 MB (82.6% smaller), text search unchanged |
+| Merge and split | 120 invoices merged into 1 PDF (126 pages), split into 126 single-page files,     page count matches |
+| Watermark | 21 of 21 pages stamped, text intact |
+| Password protection | AES-256, wrong password rejected, correct password unlocks |
 | Format conversion content checks (14 PDFs) | DOCX 14/14, TXT 14/14, HTML 14/14, PNG 14/14 |
 | Redaction | 63 items removed from 12 statements, 0 matches remain |
 
